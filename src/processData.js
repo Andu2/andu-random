@@ -35,6 +35,7 @@ Promise.all(ngramReads)
 			for (var row = 0; row < data[i].length; row++) {
 				var gram = data[i][row][gramColumn];
 				var count = parseInt(data[i][row]["*/*"]);
+				var endCount = parseInt(data[i][row]["*/" + (-n) + ":-1"]);
 
 				// positional
 				var positionalArray = [];
@@ -42,9 +43,13 @@ Promise.all(ngramReads)
 					positionalArray.push(parseInt(data[i][row]["*/" + position + ":" + (position + n - 1)]));
 				}
 
+				var startCount = positionalArray[0];
+
 				frequency[gram] = {
 					count: count,
-					positionalCount: positionalArray
+					positionalCount: positionalArray,
+					startCount: startCount,
+					endCount: endCount
 				};
 			}
 
