@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "csv": "^3.1.0",
-    "webpack": "^4.8.3"
+    "webpack": "^4.8.3",
+    "webpack-cli": "^2.1.4"
   }
 }
