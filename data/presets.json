@@ -1,0 +1,62 @@
+{
+	"dictionary": {
+		"wordLists": [{
+			"fileName": "bnc.csv"
+		}],
+		"depth": 3,
+		"lengthSoftCap": 8,
+		"maxLength": 20
+	},
+	"maleName": {
+		"wordLists": [{
+			"fileName": "usmalefirst.csv"
+		}],
+		"depth": 3,
+		"lengthSoftFloor": 4,
+		"lengthSoftCap": 5,
+		"maxLength": 15
+	},
+	"femaleName": {
+		"wordLists": [{
+			"fileName": "usfemalefirst.csv"
+		}],
+		"depth": 3,
+		"lengthSoftFloor": 4,
+		"lengthSoftCap": 5,
+		"maxLength": 15
+	},
+	"firstName": {
+		"wordLists": [{
+			"fileName": "usmalefirst.csv"
+		}, {
+			"fileName": "usfemalefirst.csv"
+		}],
+		"depth": 3,
+		"lengthSoftFloor": 4,
+		"lengthSoftCap": 5,
+		"maxLength": 15
+	},
+	"lastName": {
+		"wordLists": [{
+			"fileName": "uslast.csv"
+		}],
+		"depth": 3,
+		"lengthSoftFloor": 5,
+		"lengthSoftCap": 7,
+		"maxLength": 15
+	},
+	"fantasyName": {
+		"wordLists": [{
+			"fileName": "dnd.csv",
+			"weight": 2
+		}, {
+			"fileName": "lotr.csv",
+			"weight": 1
+		}],
+		"depth": 3,
+		"lengthSoftFloor": 4,
+		"lengthSoftCap": 5,
+		"maxLength": 15,
+		"allowListWords": true
+	}
+}
