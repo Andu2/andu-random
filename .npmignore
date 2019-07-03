@@ -1,5 +1,6 @@
 /node_modules
 /test
+testRun.js
 /data/frequency-tables
 /data/wordlists/test*.csv
 /dist
