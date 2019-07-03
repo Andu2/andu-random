@@ -1,5 +1,5 @@
 {
-  "name": "andu-random-word",
+  "name": "andu-random",
   "version": "1.0.0",
   "description": "generates a random word",
   "main": "index.js",

@@ -3,5 +3,5 @@
 testRun.js
 /data/frequency-tables
 /data/wordlists/test*.csv
-/dist
 /old
+/src/scripts

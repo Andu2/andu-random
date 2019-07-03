@@ -1,6 +1,6 @@
 const generateFrequencyData = require("./src/generateFrequencyData");
 const generateRandomWord = require("./src/generateRandomWord");
-const presets = require("./data/presets");
+const presets = require("./data/presets.json");
 
 class anduRandom {
 	constructor(options) {
