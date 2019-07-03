@@ -4,9 +4,39 @@ Takes a list of sample words, generates a frequency table for the next letter gi
 
 ## Usage
 
+Create a new generator object. Pass either a preset name or a custom settings object into the constructor.
+
+Then, run the asynchronous function that loads frequency data, and you can generate words after it's done.
+
+Example using preset:
+
 ```
 const AnduRandom = require("andu-random");
 var generator = new AnduRandom("fantasyName");
+generator.loadFrequencyData().then(function() {
+	generator.generateWord();
+});
+```
+
+Example using custom settings object:
+
+```
+const AnduRandom = require("andu-random");
+var generatorOptions = {
+	"wordLists": [{
+		"fileName": "usmalefirst.csv",
+		"weight": 1
+	}, {
+		"fileName": "usfemalefirst.csv",
+		"weight": 2
+	}],
+	"depth": 2,
+	"lengthSoftFloor": 4,
+	"lengthSoftCap": 5,
+	"maxLength": 15,
+	"allowListWords": false
+};
+var generator = new AnduRandom(generatorOptions);
 generator.loadFrequencyData().then(function() {
 	generator.generateWord();
 });
@@ -21,11 +51,21 @@ generator.loadFrequencyData().then(function() {
 * lastName
 * fantasyName
 
-## Word data
+## Options
 
-* Male first names from 1990 US census
-* Female first names from 1990 US census
-* Last names from 1990 US census
-* British National Corpus, from http://number27.org/assets/misc/words.txt
-* LOTR character list from https://lotr.fandom.com/wiki/Category:Characters, last names and first names combined
-* DnD names from XGtE and other books with races
+* `wordLists` Array of word data files to use, with optional weighting. See below for included word data files. 
+* `depth` Number of previous characters to look at to determine odds of next character. Lower numbers make it more random, higher numbers generate large chunks of existing words. A depth of 3 seems to be best, maybe 2 if the word list is short.
+* `minLength` Minimum word length. Default is 1.
+* `maxLength` Maxmimum word length. Default is 1000.
+* `lengthSoftFloor` Decreases the chance of getting words shorter than this length. Effect increases as the word length gets closer to `minLength`.
+* `lengthSoftCap` Decrease the chance of getting words longer than this length. Effect increases as the word length gets closer to `maxLength`. You need to set a reasonable `maxLength` if you want this to work properly.
+* `allowListWords` Whether to allow words on the word data files to be randomly generated.
+
+## Word data files
+
+* `bnc.csv` British National Corpus, downloaded from http://number27.org/assets/misc/words.txt
+* `usmalefirst.csv` Male first names from 1990 US census
+* `usfemalefirst.csv` Female first names from 1990 US census
+* `uslast.csv` Last names from 1990 US census
+* `lotr.csv` LOTR character list from https://lotr.fandom.com/wiki/Category:Characters, last names and first names combined
+* `dnd.csv` Names from various DnD 5e books as listed in race descriptions
