@@ -1,0 +1,4878 @@
+[
+	{
+		"word": "AARON",
+		"weight": "0.24"
+	},
+	{
+		"word": "ABDUL",
+		"weight": "0.007"
+	},
+	{
+		"word": "ABE",
+		"weight": "0.006"
+	},
+	{
+		"word": "ABEL",
+		"weight": "0.019"
+	},
+	{
+		"word": "ABRAHAM",
+		"weight": "0.035"
+	},
+	{
+		"word": "ABRAM",
+		"weight": "0.005"
+	},
+	{
+		"word": "ADALBERTO",
+		"weight": "0.005"
+	},
+	{
+		"word": "ADAM",
+		"weight": "0.259"
+	},
+	{
+		"word": "ADAN",
+		"weight": "0.008"
+	},
+	{
+		"word": "ADOLFO",
+		"weight": "0.014"
+	},
+	{
+		"word": "ADOLPH",
+		"weight": "0.011"
+	},
+	{
+		"word": "ADRIAN",
+		"weight": "0.069"
+	},
+	{
+		"word": "AGUSTIN",
+		"weight": "0.015"
+	},
+	{
+		"word": "AHMAD",
+		"weight": "0.006"
+	},
+	{
+		"word": "AHMED",
+		"weight": "0.005"
+	},
+	{
+		"word": "AL",
+		"weight": "0.023"
+	},
+	{
+		"word": "ALAN",
+		"weight": "0.204"
+	},
+	{
+		"word": "ALBERT",
+		"weight": "0.314"
+	},
+	{
+		"word": "ALBERTO",
+		"weight": "0.053"
+	},
+	{
+		"word": "ALDEN",
+		"weight": "0.006"
+	},
+	{
+		"word": "ALDO",
+		"weight": "0.007"
+	},
+	{
+		"word": "ALEC",
+		"weight": "0.006"
+	},
+	{
+		"word": "ALEJANDRO",
+		"weight": "0.043"
+	},
+	{
+		"word": "ALEX",
+		"weight": "0.115"
+	},
+	{
+		"word": "ALEXANDER",
+		"weight": "0.132"
+	},
+	{
+		"word": "ALEXIS",
+		"weight": "0.011"
+	},
+	{
+		"word": "ALFONSO",
+		"weight": "0.038"
+	},
+	{
+		"word": "ALFONZO",
+		"weight": "0.006"
+	},
+	{
+		"word": "ALFRED",
+		"weight": "0.162"
+	},
+	{
+		"word": "ALFREDO",
+		"weight": "0.054"
+	},
+	{
+		"word": "ALI",
+		"weight": "0.012"
+	},
+	{
+		"word": "ALLAN",
+		"weight": "0.061"
+	},
+	{
+		"word": "ALLEN",
+		"weight": "0.174"
+	},
+	{
+		"word": "ALONSO",
+		"weight": "0.004"
+	},
+	{
+		"word": "ALONZO",
+		"weight": "0.022"
+	},
+	{
+		"word": "ALPHONSE",
+		"weight": "0.007"
+	},
+	{
+		"word": "ALPHONSO",
+		"weight": "0.011"
+	},
+	{
+		"word": "ALTON",
+		"weight": "0.033"
+	},
+	{
+		"word": "ALVA",
+		"weight": "0.007"
+	},
+	{
+		"word": "ALVARO",
+		"weight": "0.012"
+	},
+	{
+		"word": "ALVIN",
+		"weight": "0.105"
+	},
+	{
+		"word": "AMADO",
+		"weight": "0.005"
+	},
+	{
+		"word": "AMBROSE",
+		"weight": "0.004"
+	},
+	{
+		"word": "AMOS",
+		"weight": "0.02"
+	},
+	{
+		"word": "ANDERSON",
+		"weight": "0.007"
+	},
+	{
+		"word": "ANDRE",
+		"weight": "0.076"
+	},
+	{
+		"word": "ANDREA",
+		"weight": "0.006"
+	},
+	{
+		"word": "ANDREAS",
+		"weight": "0.004"
+	},
+	{
+		"word": "ANDRES",
+		"weight": "0.034"
+	},
+	{
+		"word": "ANDREW",
+		"weight": "0.537"
+	},
+	{
+		"word": "ANDY",
+		"weight": "0.049"
+	},
+	{
+		"word": "ANGEL",
+		"weight": "0.082"
+	},
+	{
+		"word": "ANGELO",
+		"weight": "0.039"
+	},
+	{
+		"word": "ANIBAL",
+		"weight": "0.005"
+	},
+	{
+		"word": "ANTHONY",
+		"weight": "0.721"
+	},
+	{
+		"word": "ANTIONE",
+		"weight": "0.004"
+	},
+	{
+		"word": "ANTOINE",
+		"weight": "0.016"
+	},
+	{
+		"word": "ANTON",
+		"weight": "0.013"
+	},
+	{
+		"word": "ANTONE",
+		"weight": "0.005"
+	},
+	{
+		"word": "ANTONIA",
+		"weight": "0.004"
+	},
+	{
+		"word": "ANTONIO",
+		"weight": "0.19"
+	},
+	{
+		"word": "ANTONY",
+		"weight": "0.008"
+	},
+	{
+		"word": "ANTWAN",
+		"weight": "0.006"
+	},
+	{
+		"word": "ARCHIE",
+		"weight": "0.033"
+	},
+	{
+		"word": "ARDEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "ARIEL",
+		"weight": "0.007"
+	},
+	{
+		"word": "ARLEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "ARLIE",
+		"weight": "0.004"
+	},
+	{
+		"word": "ARMAND",
+		"weight": "0.012"
+	},
+	{
+		"word": "ARMANDO",
+		"weight": "0.058"
+	},
+	{
+		"word": "ARNOLD",
+		"weight": "0.072"
+	},
+	{
+		"word": "ARNOLDO",
+		"weight": "0.004"
+	},
+	{
+		"word": "ARNULFO",
+		"weight": "0.007"
+	},
+	{
+		"word": "ARON",
+		"weight": "0.006"
+	},
+	{
+		"word": "ARRON",
+		"weight": "0.008"
+	},
+	{
+		"word": "ART",
+		"weight": "0.009"
+	},
+	{
+		"word": "ARTHUR",
+		"weight": "0.335"
+	},
+	{
+		"word": "ARTURO",
+		"weight": "0.043"
+	},
+	{
+		"word": "ASA",
+		"weight": "0.004"
+	},
+	{
+		"word": "ASHLEY",
+		"weight": "0.014"
+	},
+	{
+		"word": "AUBREY",
+		"weight": "0.019"
+	},
+	{
+		"word": "AUGUST",
+		"weight": "0.015"
+	},
+	{
+		"word": "AUGUSTINE",
+		"weight": "0.007"
+	},
+	{
+		"word": "AUGUSTUS",
+		"weight": "0.005"
+	},
+	{
+		"word": "AURELIO",
+		"weight": "0.009"
+	},
+	{
+		"word": "AUSTIN",
+		"weight": "0.044"
+	},
+	{
+		"word": "AVERY",
+		"weight": "0.011"
+	},
+	{
+		"word": "BARNEY",
+		"weight": "0.009"
+	},
+	{
+		"word": "BARRETT",
+		"weight": "0.005"
+	},
+	{
+		"word": "BARRY",
+		"weight": "0.134"
+	},
+	{
+		"word": "BART",
+		"weight": "0.014"
+	},
+	{
+		"word": "BARTON",
+		"weight": "0.006"
+	},
+	{
+		"word": "BASIL",
+		"weight": "0.01"
+	},
+	{
+		"word": "BEAU",
+		"weight": "0.009"
+	},
+	{
+		"word": "BEN",
+		"weight": "0.078"
+	},
+	{
+		"word": "BENEDICT",
+		"weight": "0.004"
+	},
+	{
+		"word": "BENITO",
+		"weight": "0.015"
+	},
+	{
+		"word": "BENJAMIN",
+		"weight": "0.27"
+	},
+	{
+		"word": "BENNETT",
+		"weight": "0.008"
+	},
+	{
+		"word": "BENNIE",
+		"weight": "0.032"
+	},
+	{
+		"word": "BENNY",
+		"weight": "0.03"
+	},
+	{
+		"word": "BENTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "BERNARD",
+		"weight": "0.127"
+	},
+	{
+		"word": "BERNARDO",
+		"weight": "0.01"
+	},
+	{
+		"word": "BERNIE",
+		"weight": "0.008"
+	},
+	{
+		"word": "BERRY",
+		"weight": "0.006"
+	},
+	{
+		"word": "BERT",
+		"weight": "0.022"
+	},
+	{
+		"word": "BERTRAM",
+		"weight": "0.005"
+	},
+	{
+		"word": "BILL",
+		"weight": "0.112"
+	},
+	{
+		"word": "BILLIE",
+		"weight": "0.017"
+	},
+	{
+		"word": "BILLY",
+		"weight": "0.248"
+	},
+	{
+		"word": "BLAINE",
+		"weight": "0.015"
+	},
+	{
+		"word": "BLAIR",
+		"weight": "0.008"
+	},
+	{
+		"word": "BLAKE",
+		"weight": "0.036"
+	},
+	{
+		"word": "BO",
+		"weight": "0.005"
+	},
+	{
+		"word": "BOB",
+		"weight": "0.055"
+	},
+	{
+		"word": "BOBBIE",
+		"weight": "0.01"
+	},
+	{
+		"word": "BOBBY",
+		"weight": "0.223"
+	},
+	{
+		"word": "BOOKER",
+		"weight": "0.008"
+	},
+	{
+		"word": "BORIS",
+		"weight": "0.006"
+	},
+	{
+		"word": "BOYCE",
+		"weight": "0.004"
+	},
+	{
+		"word": "BOYD",
+		"weight": "0.019"
+	},
+	{
+		"word": "BRAD",
+		"weight": "0.073"
+	},
+	{
+		"word": "BRADFORD",
+		"weight": "0.021"
+	},
+	{
+		"word": "BRADLEY",
+		"weight": "0.159"
+	},
+	{
+		"word": "BRADLY",
+		"weight": "0.005"
+	},
+	{
+		"word": "BRADY",
+		"weight": "0.014"
+	},
+	{
+		"word": "BRAIN",
+		"weight": "0.013"
+	},
+	{
+		"word": "BRANDEN",
+		"weight": "0.008"
+	},
+	{
+		"word": "BRANDON",
+		"weight": "0.26"
+	},
+	{
+		"word": "BRANT",
+		"weight": "0.006"
+	},
+	{
+		"word": "BRENDAN",
+		"weight": "0.019"
+	},
+	{
+		"word": "BRENDON",
+		"weight": "0.005"
+	},
+	{
+		"word": "BRENT",
+		"weight": "0.09"
+	},
+	{
+		"word": "BRENTON",
+		"weight": "0.006"
+	},
+	{
+		"word": "BRET",
+		"weight": "0.018"
+	},
+	{
+		"word": "BRETT",
+		"weight": "0.082"
+	},
+	{
+		"word": "BRIAN",
+		"weight": "0.736"
+	},
+	{
+		"word": "BRICE",
+		"weight": "0.005"
+	},
+	{
+		"word": "BRITT",
+		"weight": "0.004"
+	},
+	{
+		"word": "BROCK",
+		"weight": "0.009"
+	},
+	{
+		"word": "BRODERICK",
+		"weight": "0.004"
+	},
+	{
+		"word": "BROOKS",
+		"weight": "0.007"
+	},
+	{
+		"word": "BRUCE",
+		"weight": "0.263"
+	},
+	{
+		"word": "BRUNO",
+		"weight": "0.01"
+	},
+	{
+		"word": "BRYAN",
+		"weight": "0.19"
+	},
+	{
+		"word": "BRYANT",
+		"weight": "0.026"
+	},
+	{
+		"word": "BRYCE",
+		"weight": "0.016"
+	},
+	{
+		"word": "BRYON",
+		"weight": "0.012"
+	},
+	{
+		"word": "BUCK",
+		"weight": "0.004"
+	},
+	{
+		"word": "BUD",
+		"weight": "0.005"
+	},
+	{
+		"word": "BUDDY",
+		"weight": "0.014"
+	},
+	{
+		"word": "BUFORD",
+		"weight": "0.008"
+	},
+	{
+		"word": "BURL",
+		"weight": "0.005"
+	},
+	{
+		"word": "BURT",
+		"weight": "0.006"
+	},
+	{
+		"word": "BURTON",
+		"weight": "0.014"
+	},
+	{
+		"word": "BUSTER",
+		"weight": "0.004"
+	},
+	{
+		"word": "BYRON",
+		"weight": "0.052"
+	},
+	{
+		"word": "CALEB",
+		"weight": "0.023"
+	},
+	{
+		"word": "CALVIN",
+		"weight": "0.115"
+	},
+	{
+		"word": "CAMERON",
+		"weight": "0.037"
+	},
+	{
+		"word": "CAREY",
+		"weight": "0.013"
+	},
+	{
+		"word": "CARL",
+		"weight": "0.346"
+	},
+	{
+		"word": "CARLO",
+		"weight": "0.009"
+	},
+	{
+		"word": "CARLOS",
+		"weight": "0.229"
+	},
+	{
+		"word": "CARLTON",
+		"weight": "0.037"
+	},
+	{
+		"word": "CARMELO",
+		"weight": "0.009"
+	},
+	{
+		"word": "CARMEN",
+		"weight": "0.011"
+	},
+	{
+		"word": "CARMINE",
+		"weight": "0.007"
+	},
+	{
+		"word": "CAROL",
+		"weight": "0.006"
+	},
+	{
+		"word": "CARROL",
+		"weight": "0.004"
+	},
+	{
+		"word": "CARROLL",
+		"weight": "0.026"
+	},
+	{
+		"word": "CARSON",
+		"weight": "0.008"
+	},
+	{
+		"word": "CARTER",
+		"weight": "0.009"
+	},
+	{
+		"word": "CARY",
+		"weight": "0.019"
+	},
+	{
+		"word": "CASEY",
+		"weight": "0.054"
+	},
+	{
+		"word": "CECIL",
+		"weight": "0.078"
+	},
+	{
+		"word": "CEDRIC",
+		"weight": "0.029"
+	},
+	{
+		"word": "CEDRICK",
+		"weight": "0.004"
+	},
+	{
+		"word": "CESAR",
+		"weight": "0.034"
+	},
+	{
+		"word": "CHAD",
+		"weight": "0.165"
+	},
+	{
+		"word": "CHADWICK",
+		"weight": "0.007"
+	},
+	{
+		"word": "CHANCE",
+		"weight": "0.007"
+	},
+	{
+		"word": "CHANG",
+		"weight": "0.005"
+	},
+	{
+		"word": "CHARLES",
+		"weight": "1.523"
+	},
+	{
+		"word": "CHARLEY",
+		"weight": "0.009"
+	},
+	{
+		"word": "CHARLIE",
+		"weight": "0.09"
+	},
+	{
+		"word": "CHAS",
+		"weight": "0.004"
+	},
+	{
+		"word": "CHASE",
+		"weight": "0.016"
+	},
+	{
+		"word": "CHAUNCEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "CHESTER",
+		"weight": "0.078"
+	},
+	{
+		"word": "CHET",
+		"weight": "0.005"
+	},
+	{
+		"word": "CHI",
+		"weight": "0.005"
+	},
+	{
+		"word": "CHONG",
+		"weight": "0.004"
+	},
+	{
+		"word": "CHRIS",
+		"weight": "0.197"
+	},
+	{
+		"word": "CHRISTIAN",
+		"weight": "0.065"
+	},
+	{
+		"word": "CHRISTOPER",
+		"weight": "0.006"
+	},
+	{
+		"word": "CHRISTOPHER",
+		"weight": "1.035"
+	},
+	{
+		"word": "CHUCK",
+		"weight": "0.016"
+	},
+	{
+		"word": "CHUNG",
+		"weight": "0.005"
+	},
+	{
+		"word": "CLAIR",
+		"weight": "0.008"
+	},
+	{
+		"word": "CLARENCE",
+		"weight": "0.197"
+	},
+	{
+		"word": "CLARK",
+		"weight": "0.026"
+	},
+	{
+		"word": "CLAUD",
+		"weight": "0.004"
+	},
+	{
+		"word": "CLAUDE",
+		"weight": "0.068"
+	},
+	{
+		"word": "CLAUDIO",
+		"weight": "0.006"
+	},
+	{
+		"word": "CLAY",
+		"weight": "0.021"
+	},
+	{
+		"word": "CLAYTON",
+		"weight": "0.06"
+	},
+	{
+		"word": "CLEMENT",
+		"weight": "0.01"
+	},
+	{
+		"word": "CLEMENTE",
+		"weight": "0.004"
+	},
+	{
+		"word": "CLEO",
+		"weight": "0.009"
+	},
+	{
+		"word": "CLETUS",
+		"weight": "0.005"
+	},
+	{
+		"word": "CLEVELAND",
+		"weight": "0.016"
+	},
+	{
+		"word": "CLIFF",
+		"weight": "0.012"
+	},
+	{
+		"word": "CLIFFORD",
+		"weight": "0.123"
+	},
+	{
+		"word": "CLIFTON",
+		"weight": "0.05"
+	},
+	{
+		"word": "CLINT",
+		"weight": "0.024"
+	},
+	{
+		"word": "CLINTON",
+		"weight": "0.065"
+	},
+	{
+		"word": "CLYDE",
+		"weight": "0.095"
+	},
+	{
+		"word": "CODY",
+		"weight": "0.063"
+	},
+	{
+		"word": "COLBY",
+		"weight": "0.009"
+	},
+	{
+		"word": "COLE",
+		"weight": "0.01"
+	},
+	{
+		"word": "COLEMAN",
+		"weight": "0.006"
+	},
+	{
+		"word": "COLIN",
+		"weight": "0.031"
+	},
+	{
+		"word": "COLLIN",
+		"weight": "0.009"
+	},
+	{
+		"word": "COLTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "COLUMBUS",
+		"weight": "0.005"
+	},
+	{
+		"word": "CONNIE",
+		"weight": "0.005"
+	},
+	{
+		"word": "CONRAD",
+		"weight": "0.022"
+	},
+	{
+		"word": "CORDELL",
+		"weight": "0.004"
+	},
+	{
+		"word": "COREY",
+		"weight": "0.098"
+	},
+	{
+		"word": "CORNELIUS",
+		"weight": "0.021"
+	},
+	{
+		"word": "CORNELL",
+		"weight": "0.008"
+	},
+	{
+		"word": "CORTEZ",
+		"weight": "0.004"
+	},
+	{
+		"word": "CORY",
+		"weight": "0.068"
+	},
+	{
+		"word": "COURTNEY",
+		"weight": "0.019"
+	},
+	{
+		"word": "COY",
+		"weight": "0.01"
+	},
+	{
+		"word": "CRAIG",
+		"weight": "0.206"
+	},
+	{
+		"word": "CRISTOBAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "CRISTOPHER",
+		"weight": "0.004"
+	},
+	{
+		"word": "CRUZ",
+		"weight": "0.009"
+	},
+	{
+		"word": "CURT",
+		"weight": "0.015"
+	},
+	{
+		"word": "CURTIS",
+		"weight": "0.18"
+	},
+	{
+		"word": "CYRIL",
+		"weight": "0.007"
+	},
+	{
+		"word": "CYRUS",
+		"weight": "0.007"
+	},
+	{
+		"word": "DALE",
+		"weight": "0.184"
+	},
+	{
+		"word": "DALLAS",
+		"weight": "0.024"
+	},
+	{
+		"word": "DALTON",
+		"weight": "0.008"
+	},
+	{
+		"word": "DAMIAN",
+		"weight": "0.016"
+	},
+	{
+		"word": "DAMIEN",
+		"weight": "0.014"
+	},
+	{
+		"word": "DAMION",
+		"weight": "0.005"
+	},
+	{
+		"word": "DAMON",
+		"weight": "0.034"
+	},
+	{
+		"word": "DAN",
+		"weight": "0.101"
+	},
+	{
+		"word": "DANA",
+		"weight": "0.042"
+	},
+	{
+		"word": "DANE",
+		"weight": "0.012"
+	},
+	{
+		"word": "DANIAL",
+		"weight": "0.008"
+	},
+	{
+		"word": "DANIEL",
+		"weight": "0.974"
+	},
+	{
+		"word": "DANILO",
+		"weight": "0.004"
+	},
+	{
+		"word": "DANNIE",
+		"weight": "0.005"
+	},
+	{
+		"word": "DANNY",
+		"weight": "0.19"
+	},
+	{
+		"word": "DANTE",
+		"weight": "0.01"
+	},
+	{
+		"word": "DARELL",
+		"weight": "0.004"
+	},
+	{
+		"word": "DAREN",
+		"weight": "0.008"
+	},
+	{
+		"word": "DARIN",
+		"weight": "0.02"
+	},
+	{
+		"word": "DARIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "DARIUS",
+		"weight": "0.013"
+	},
+	{
+		"word": "DARNELL",
+		"weight": "0.02"
+	},
+	{
+		"word": "DARON",
+		"weight": "0.004"
+	},
+	{
+		"word": "DARREL",
+		"weight": "0.022"
+	},
+	{
+		"word": "DARRELL",
+		"weight": "0.108"
+	},
+	{
+		"word": "DARREN",
+		"weight": "0.064"
+	},
+	{
+		"word": "DARRICK",
+		"weight": "0.005"
+	},
+	{
+		"word": "DARRIN",
+		"weight": "0.019"
+	},
+	{
+		"word": "DARRON",
+		"weight": "0.004"
+	},
+	{
+		"word": "DARRYL",
+		"weight": "0.067"
+	},
+	{
+		"word": "DARWIN",
+		"weight": "0.014"
+	},
+	{
+		"word": "DARYL",
+		"weight": "0.05"
+	},
+	{
+		"word": "DAVE",
+		"weight": "0.053"
+	},
+	{
+		"word": "DAVID",
+		"weight": "2.363"
+	},
+	{
+		"word": "DAVIS",
+		"weight": "0.01"
+	},
+	{
+		"word": "DEAN",
+		"weight": "0.104"
+	},
+	{
+		"word": "DEANDRE",
+		"weight": "0.006"
+	},
+	{
+		"word": "DEANGELO",
+		"weight": "0.004"
+	},
+	{
+		"word": "DEE",
+		"weight": "0.005"
+	},
+	{
+		"word": "DEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "DELBERT",
+		"weight": "0.031"
+	},
+	{
+		"word": "DELMAR",
+		"weight": "0.009"
+	},
+	{
+		"word": "DELMER",
+		"weight": "0.005"
+	},
+	{
+		"word": "DEMARCUS",
+		"weight": "0.005"
+	},
+	{
+		"word": "DEMETRIUS",
+		"weight": "0.017"
+	},
+	{
+		"word": "DENIS",
+		"weight": "0.014"
+	},
+	{
+		"word": "DENNIS",
+		"weight": "0.415"
+	},
+	{
+		"word": "DENNY",
+		"weight": "0.01"
+	},
+	{
+		"word": "DENVER",
+		"weight": "0.009"
+	},
+	{
+		"word": "DEON",
+		"weight": "0.006"
+	},
+	{
+		"word": "DEREK",
+		"weight": "0.112"
+	},
+	{
+		"word": "DERICK",
+		"weight": "0.011"
+	},
+	{
+		"word": "DERRICK",
+		"weight": "0.103"
+	},
+	{
+		"word": "DESHAWN",
+		"weight": "0.004"
+	},
+	{
+		"word": "DESMOND",
+		"weight": "0.014"
+	},
+	{
+		"word": "DEVIN",
+		"weight": "0.028"
+	},
+	{
+		"word": "DEVON",
+		"weight": "0.014"
+	},
+	{
+		"word": "DEWAYNE",
+		"weight": "0.018"
+	},
+	{
+		"word": "DEWEY",
+		"weight": "0.023"
+	},
+	{
+		"word": "DEWITT",
+		"weight": "0.006"
+	},
+	{
+		"word": "DEXTER",
+		"weight": "0.021"
+	},
+	{
+		"word": "DICK",
+		"weight": "0.009"
+	},
+	{
+		"word": "DIEGO",
+		"weight": "0.011"
+	},
+	{
+		"word": "DILLON",
+		"weight": "0.005"
+	},
+	{
+		"word": "DINO",
+		"weight": "0.006"
+	},
+	{
+		"word": "DION",
+		"weight": "0.01"
+	},
+	{
+		"word": "DIRK",
+		"weight": "0.008"
+	},
+	{
+		"word": "DOMENIC",
+		"weight": "0.004"
+	},
+	{
+		"word": "DOMINGO",
+		"weight": "0.019"
+	},
+	{
+		"word": "DOMINIC",
+		"weight": "0.032"
+	},
+	{
+		"word": "DOMINICK",
+		"weight": "0.019"
+	},
+	{
+		"word": "DOMINIQUE",
+		"weight": "0.008"
+	},
+	{
+		"word": "DON",
+		"weight": "0.145"
+	},
+	{
+		"word": "DONALD",
+		"weight": "0.931"
+	},
+	{
+		"word": "DONG",
+		"weight": "0.004"
+	},
+	{
+		"word": "DONN",
+		"weight": "0.006"
+	},
+	{
+		"word": "DONNELL",
+		"weight": "0.01"
+	},
+	{
+		"word": "DONNIE",
+		"weight": "0.041"
+	},
+	{
+		"word": "DONNY",
+		"weight": "0.009"
+	},
+	{
+		"word": "DONOVAN",
+		"weight": "0.01"
+	},
+	{
+		"word": "DONTE",
+		"weight": "0.005"
+	},
+	{
+		"word": "DORIAN",
+		"weight": "0.006"
+	},
+	{
+		"word": "DORSEY",
+		"weight": "0.004"
+	},
+	{
+		"word": "DOUG",
+		"weight": "0.04"
+	},
+	{
+		"word": "DOUGLAS",
+		"weight": "0.367"
+	},
+	{
+		"word": "DOUGLASS",
+		"weight": "0.004"
+	},
+	{
+		"word": "DOYLE",
+		"weight": "0.022"
+	},
+	{
+		"word": "DREW",
+		"weight": "0.024"
+	},
+	{
+		"word": "DUANE",
+		"weight": "0.077"
+	},
+	{
+		"word": "DUDLEY",
+		"weight": "0.009"
+	},
+	{
+		"word": "DUNCAN",
+		"weight": "0.007"
+	},
+	{
+		"word": "DUSTIN",
+		"weight": "0.103"
+	},
+	{
+		"word": "DUSTY",
+		"weight": "0.007"
+	},
+	{
+		"word": "DWAIN",
+		"weight": "0.005"
+	},
+	{
+		"word": "DWAYNE",
+		"weight": "0.059"
+	},
+	{
+		"word": "DWIGHT",
+		"weight": "0.058"
+	},
+	{
+		"word": "DYLAN",
+		"weight": "0.016"
+	},
+	{
+		"word": "EARL",
+		"weight": "0.193"
+	},
+	{
+		"word": "EARLE",
+		"weight": "0.006"
+	},
+	{
+		"word": "EARNEST",
+		"weight": "0.031"
+	},
+	{
+		"word": "ED",
+		"weight": "0.032"
+	},
+	{
+		"word": "EDDIE",
+		"weight": "0.144"
+	},
+	{
+		"word": "EDDY",
+		"weight": "0.01"
+	},
+	{
+		"word": "EDGAR",
+		"weight": "0.08"
+	},
+	{
+		"word": "EDGARDO",
+		"weight": "0.006"
+	},
+	{
+		"word": "EDISON",
+		"weight": "0.004"
+	},
+	{
+		"word": "EDMOND",
+		"weight": "0.019"
+	},
+	{
+		"word": "EDMUND",
+		"weight": "0.03"
+	},
+	{
+		"word": "EDMUNDO",
+		"weight": "0.004"
+	},
+	{
+		"word": "EDUARDO",
+		"weight": "0.047"
+	},
+	{
+		"word": "EDWARD",
+		"weight": "0.779"
+	},
+	{
+		"word": "EDWARDO",
+		"weight": "0.008"
+	},
+	{
+		"word": "EDWIN",
+		"weight": "0.148"
+	},
+	{
+		"word": "EFRAIN",
+		"weight": "0.017"
+	},
+	{
+		"word": "EFREN",
+		"weight": "0.006"
+	},
+	{
+		"word": "ELBERT",
+		"weight": "0.022"
+	},
+	{
+		"word": "ELDEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "ELDON",
+		"weight": "0.017"
+	},
+	{
+		"word": "ELDRIDGE",
+		"weight": "0.004"
+	},
+	{
+		"word": "ELI",
+		"weight": "0.016"
+	},
+	{
+		"word": "ELIAS",
+		"weight": "0.022"
+	},
+	{
+		"word": "ELIJAH",
+		"weight": "0.019"
+	},
+	{
+		"word": "ELISEO",
+		"weight": "0.006"
+	},
+	{
+		"word": "ELISHA",
+		"weight": "0.004"
+	},
+	{
+		"word": "ELLIOT",
+		"weight": "0.014"
+	},
+	{
+		"word": "ELLIOTT",
+		"weight": "0.014"
+	},
+	{
+		"word": "ELLIS",
+		"weight": "0.024"
+	},
+	{
+		"word": "ELLSWORTH",
+		"weight": "0.004"
+	},
+	{
+		"word": "ELMER",
+		"weight": "0.074"
+	},
+	{
+		"word": "ELMO",
+		"weight": "0.006"
+	},
+	{
+		"word": "ELOY",
+		"weight": "0.006"
+	},
+	{
+		"word": "ELROY",
+		"weight": "0.004"
+	},
+	{
+		"word": "ELTON",
+		"weight": "0.016"
+	},
+	{
+		"word": "ELVIN",
+		"weight": "0.013"
+	},
+	{
+		"word": "ELVIS",
+		"weight": "0.01"
+	},
+	{
+		"word": "ELWOOD",
+		"weight": "0.013"
+	},
+	{
+		"word": "EMANUEL",
+		"weight": "0.019"
+	},
+	{
+		"word": "EMERSON",
+		"weight": "0.008"
+	},
+	{
+		"word": "EMERY",
+		"weight": "0.01"
+	},
+	{
+		"word": "EMIL",
+		"weight": "0.019"
+	},
+	{
+		"word": "EMILE",
+		"weight": "0.006"
+	},
+	{
+		"word": "EMILIO",
+		"weight": "0.019"
+	},
+	{
+		"word": "EMMANUEL",
+		"weight": "0.018"
+	},
+	{
+		"word": "EMMETT",
+		"weight": "0.019"
+	},
+	{
+		"word": "EMMITT",
+		"weight": "0.004"
+	},
+	{
+		"word": "EMORY",
+		"weight": "0.008"
+	},
+	{
+		"word": "ENOCH",
+		"weight": "0.005"
+	},
+	{
+		"word": "ENRIQUE",
+		"weight": "0.046"
+	},
+	{
+		"word": "ERASMO",
+		"weight": "0.004"
+	},
+	{
+		"word": "ERIC",
+		"weight": "0.544"
+	},
+	{
+		"word": "ERICH",
+		"weight": "0.007"
+	},
+	{
+		"word": "ERICK",
+		"weight": "0.023"
+	},
+	{
+		"word": "ERIK",
+		"weight": "0.068"
+	},
+	{
+		"word": "ERIN",
+		"weight": "0.007"
+	},
+	{
+		"word": "ERNEST",
+		"weight": "0.215"
+	},
+	{
+		"word": "ERNESTO",
+		"weight": "0.037"
+	},
+	{
+		"word": "ERNIE",
+		"weight": "0.015"
+	},
+	{
+		"word": "ERROL",
+		"weight": "0.008"
+	},
+	{
+		"word": "ERVIN",
+		"weight": "0.023"
+	},
+	{
+		"word": "ERWIN",
+		"weight": "0.015"
+	},
+	{
+		"word": "ESTEBAN",
+		"weight": "0.013"
+	},
+	{
+		"word": "ETHAN",
+		"weight": "0.017"
+	},
+	{
+		"word": "EUGENE",
+		"weight": "0.23"
+	},
+	{
+		"word": "EUGENIO",
+		"weight": "0.007"
+	},
+	{
+		"word": "EUSEBIO",
+		"weight": "0.004"
+	},
+	{
+		"word": "EVAN",
+		"weight": "0.042"
+	},
+	{
+		"word": "EVERETT",
+		"weight": "0.057"
+	},
+	{
+		"word": "EVERETTE",
+		"weight": "0.006"
+	},
+	{
+		"word": "EZEKIEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "EZEQUIEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "EZRA",
+		"weight": "0.007"
+	},
+	{
+		"word": "FABIAN",
+		"weight": "0.012"
+	},
+	{
+		"word": "FAUSTINO",
+		"weight": "0.006"
+	},
+	{
+		"word": "FAUSTO",
+		"weight": "0.004"
+	},
+	{
+		"word": "FEDERICO",
+		"weight": "0.01"
+	},
+	{
+		"word": "FELIPE",
+		"weight": "0.032"
+	},
+	{
+		"word": "FELIX",
+		"weight": "0.058"
+	},
+	{
+		"word": "FELTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "FERDINAND",
+		"weight": "0.007"
+	},
+	{
+		"word": "FERMIN",
+		"weight": "0.005"
+	},
+	{
+		"word": "FERNANDO",
+		"weight": "0.065"
+	},
+	{
+		"word": "FIDEL",
+		"weight": "0.012"
+	},
+	{
+		"word": "FILIBERTO",
+		"weight": "0.004"
+	},
+	{
+		"word": "FLETCHER",
+		"weight": "0.008"
+	},
+	{
+		"word": "FLORENCIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "FLORENTINO",
+		"weight": "0.004"
+	},
+	{
+		"word": "FLOYD",
+		"weight": "0.107"
+	},
+	{
+		"word": "FOREST",
+		"weight": "0.007"
+	},
+	{
+		"word": "FORREST",
+		"weight": "0.027"
+	},
+	{
+		"word": "FOSTER",
+		"weight": "0.006"
+	},
+	{
+		"word": "FRANCES",
+		"weight": "0.005"
+	},
+	{
+		"word": "FRANCESCO",
+		"weight": "0.004"
+	},
+	{
+		"word": "FRANCIS",
+		"weight": "0.16"
+	},
+	{
+		"word": "FRANCISCO",
+		"weight": "0.124"
+	},
+	{
+		"word": "FRANK",
+		"weight": "0.581"
+	},
+	{
+		"word": "FRANKIE",
+		"weight": "0.023"
+	},
+	{
+		"word": "FRANKLIN",
+		"weight": "0.077"
+	},
+	{
+		"word": "FRANKLYN",
+		"weight": "0.004"
+	},
+	{
+		"word": "FRED",
+		"weight": "0.251"
+	},
+	{
+		"word": "FREDDIE",
+		"weight": "0.046"
+	},
+	{
+		"word": "FREDDY",
+		"weight": "0.016"
+	},
+	{
+		"word": "FREDERIC",
+		"weight": "0.009"
+	},
+	{
+		"word": "FREDERICK",
+		"weight": "0.154"
+	},
+	{
+		"word": "FREDRIC",
+		"weight": "0.005"
+	},
+	{
+		"word": "FREDRICK",
+		"weight": "0.043"
+	},
+	{
+		"word": "FREEMAN",
+		"weight": "0.007"
+	},
+	{
+		"word": "FRITZ",
+		"weight": "0.006"
+	},
+	{
+		"word": "GABRIEL",
+		"weight": "0.073"
+	},
+	{
+		"word": "GAIL",
+		"weight": "0.006"
+	},
+	{
+		"word": "GALE",
+		"weight": "0.008"
+	},
+	{
+		"word": "GALEN",
+		"weight": "0.009"
+	},
+	{
+		"word": "GARFIELD",
+		"weight": "0.005"
+	},
+	{
+		"word": "GARLAND",
+		"weight": "0.017"
+	},
+	{
+		"word": "GARRET",
+		"weight": "0.004"
+	},
+	{
+		"word": "GARRETT",
+		"weight": "0.029"
+	},
+	{
+		"word": "GARRY",
+		"weight": "0.032"
+	},
+	{
+		"word": "GARTH",
+		"weight": "0.007"
+	},
+	{
+		"word": "GARY",
+		"weight": "0.65"
+	},
+	{
+		"word": "GASTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "GAVIN",
+		"weight": "0.01"
+	},
+	{
+		"word": "GAYLE",
+		"weight": "0.004"
+	},
+	{
+		"word": "GAYLORD",
+		"weight": "0.004"
+	},
+	{
+		"word": "GENARO",
+		"weight": "0.008"
+	},
+	{
+		"word": "GENE",
+		"weight": "0.087"
+	},
+	{
+		"word": "GEOFFREY",
+		"weight": "0.032"
+	},
+	{
+		"word": "GEORGE",
+		"weight": "0.927"
+	},
+	{
+		"word": "GERALD",
+		"weight": "0.309"
+	},
+	{
+		"word": "GERALDO",
+		"weight": "0.005"
+	},
+	{
+		"word": "GERARD",
+		"weight": "0.04"
+	},
+	{
+		"word": "GERARDO",
+		"weight": "0.032"
+	},
+	{
+		"word": "GERMAN",
+		"weight": "0.008"
+	},
+	{
+		"word": "GERRY",
+		"weight": "0.011"
+	},
+	{
+		"word": "GIL",
+		"weight": "0.006"
+	},
+	{
+		"word": "GILBERT",
+		"weight": "0.089"
+	},
+	{
+		"word": "GILBERTO",
+		"weight": "0.024"
+	},
+	{
+		"word": "GINO",
+		"weight": "0.006"
+	},
+	{
+		"word": "GIOVANNI",
+		"weight": "0.007"
+	},
+	{
+		"word": "GIUSEPPE",
+		"weight": "0.005"
+	},
+	{
+		"word": "GLEN",
+		"weight": "0.094"
+	},
+	{
+		"word": "GLENN",
+		"weight": "0.167"
+	},
+	{
+		"word": "GONZALO",
+		"weight": "0.011"
+	},
+	{
+		"word": "GORDON",
+		"weight": "0.104"
+	},
+	{
+		"word": "GRADY",
+		"weight": "0.021"
+	},
+	{
+		"word": "GRAHAM",
+		"weight": "0.012"
+	},
+	{
+		"word": "GRAIG",
+		"weight": "0.004"
+	},
+	{
+		"word": "GRANT",
+		"weight": "0.036"
+	},
+	{
+		"word": "GRANVILLE",
+		"weight": "0.004"
+	},
+	{
+		"word": "GREG",
+		"weight": "0.104"
+	},
+	{
+		"word": "GREGG",
+		"weight": "0.029"
+	},
+	{
+		"word": "GREGORIO",
+		"weight": "0.014"
+	},
+	{
+		"word": "GREGORY",
+		"weight": "0.441"
+	},
+	{
+		"word": "GROVER",
+		"weight": "0.016"
+	},
+	{
+		"word": "GUADALUPE",
+		"weight": "0.026"
+	},
+	{
+		"word": "GUILLERMO",
+		"weight": "0.031"
+	},
+	{
+		"word": "GUS",
+		"weight": "0.011"
+	},
+	{
+		"word": "GUSTAVO",
+		"weight": "0.025"
+	},
+	{
+		"word": "GUY",
+		"weight": "0.06"
+	},
+	{
+		"word": "HAI",
+		"weight": "0.004"
+	},
+	{
+		"word": "HAL",
+		"weight": "0.013"
+	},
+	{
+		"word": "HANK",
+		"weight": "0.005"
+	},
+	{
+		"word": "HANS",
+		"weight": "0.015"
+	},
+	{
+		"word": "HARLAN",
+		"weight": "0.014"
+	},
+	{
+		"word": "HARLAND",
+		"weight": "0.004"
+	},
+	{
+		"word": "HARLEY",
+		"weight": "0.017"
+	},
+	{
+		"word": "HAROLD",
+		"weight": "0.371"
+	},
+	{
+		"word": "HARRIS",
+		"weight": "0.009"
+	},
+	{
+		"word": "HARRISON",
+		"weight": "0.014"
+	},
+	{
+		"word": "HARRY",
+		"weight": "0.251"
+	},
+	{
+		"word": "HARVEY",
+		"weight": "0.072"
+	},
+	{
+		"word": "HASSAN",
+		"weight": "0.005"
+	},
+	{
+		"word": "HAYDEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "HAYWOOD",
+		"weight": "0.004"
+	},
+	{
+		"word": "HEATH",
+		"weight": "0.017"
+	},
+	{
+		"word": "HECTOR",
+		"weight": "0.094"
+	},
+	{
+		"word": "HENRY",
+		"weight": "0.365"
+	},
+	{
+		"word": "HERB",
+		"weight": "0.004"
+	},
+	{
+		"word": "HERBERT",
+		"weight": "0.155"
+	},
+	{
+		"word": "HERIBERTO",
+		"weight": "0.01"
+	},
+	{
+		"word": "HERMAN",
+		"weight": "0.097"
+	},
+	{
+		"word": "HERSCHEL",
+		"weight": "0.007"
+	},
+	{
+		"word": "HERSHEL",
+		"weight": "0.006"
+	},
+	{
+		"word": "HILARIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "HILTON",
+		"weight": "0.005"
+	},
+	{
+		"word": "HIPOLITO",
+		"weight": "0.005"
+	},
+	{
+		"word": "HIRAM",
+		"weight": "0.01"
+	},
+	{
+		"word": "HOBERT",
+		"weight": "0.004"
+	},
+	{
+		"word": "HOLLIS",
+		"weight": "0.009"
+	},
+	{
+		"word": "HOMER",
+		"weight": "0.04"
+	},
+	{
+		"word": "HONG",
+		"weight": "0.004"
+	},
+	{
+		"word": "HORACE",
+		"weight": "0.036"
+	},
+	{
+		"word": "HORACIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "HOSEA",
+		"weight": "0.004"
+	},
+	{
+		"word": "HOUSTON",
+		"weight": "0.008"
+	},
+	{
+		"word": "HOWARD",
+		"weight": "0.23"
+	},
+	{
+		"word": "HOYT",
+		"weight": "0.004"
+	},
+	{
+		"word": "HUBERT",
+		"weight": "0.039"
+	},
+	{
+		"word": "HUEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "HUGH",
+		"weight": "0.06"
+	},
+	{
+		"word": "HUGO",
+		"weight": "0.023"
+	},
+	{
+		"word": "HUMBERTO",
+		"weight": "0.018"
+	},
+	{
+		"word": "HUNG",
+		"weight": "0.008"
+	},
+	{
+		"word": "HUNTER",
+		"weight": "0.009"
+	},
+	{
+		"word": "HYMAN",
+		"weight": "0.004"
+	},
+	{
+		"word": "IAN",
+		"weight": "0.056"
+	},
+	{
+		"word": "IGNACIO",
+		"weight": "0.023"
+	},
+	{
+		"word": "IKE",
+		"weight": "0.004"
+	},
+	{
+		"word": "IRA",
+		"weight": "0.035"
+	},
+	{
+		"word": "IRVIN",
+		"weight": "0.02"
+	},
+	{
+		"word": "IRVING",
+		"weight": "0.026"
+	},
+	{
+		"word": "IRWIN",
+		"weight": "0.009"
+	},
+	{
+		"word": "ISAAC",
+		"weight": "0.051"
+	},
+	{
+		"word": "ISAIAH",
+		"weight": "0.011"
+	},
+	{
+		"word": "ISAIAS",
+		"weight": "0.005"
+	},
+	{
+		"word": "ISIAH",
+		"weight": "0.006"
+	},
+	{
+		"word": "ISIDRO",
+		"weight": "0.009"
+	},
+	{
+		"word": "ISMAEL",
+		"weight": "0.024"
+	},
+	{
+		"word": "ISRAEL",
+		"weight": "0.028"
+	},
+	{
+		"word": "ISREAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "ISSAC",
+		"weight": "0.01"
+	},
+	{
+		"word": "IVAN",
+		"weight": "0.053"
+	},
+	{
+		"word": "IVORY",
+		"weight": "0.006"
+	},
+	{
+		"word": "JACINTO",
+		"weight": "0.004"
+	},
+	{
+		"word": "JACK",
+		"weight": "0.315"
+	},
+	{
+		"word": "JACKIE",
+		"weight": "0.043"
+	},
+	{
+		"word": "JACKSON",
+		"weight": "0.012"
+	},
+	{
+		"word": "JACOB",
+		"weight": "0.165"
+	},
+	{
+		"word": "JACQUES",
+		"weight": "0.008"
+	},
+	{
+		"word": "JAE",
+		"weight": "0.004"
+	},
+	{
+		"word": "JAIME",
+		"weight": "0.055"
+	},
+	{
+		"word": "JAKE",
+		"weight": "0.025"
+	},
+	{
+		"word": "JAMAAL",
+		"weight": "0.006"
+	},
+	{
+		"word": "JAMAL",
+		"weight": "0.014"
+	},
+	{
+		"word": "JAMAR",
+		"weight": "0.006"
+	},
+	{
+		"word": "JAME",
+		"weight": "0.008"
+	},
+	{
+		"word": "JAMEL",
+		"weight": "0.007"
+	},
+	{
+		"word": "JAMES",
+		"weight": "3.318"
+	},
+	{
+		"word": "JAMEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "JAMIE",
+		"weight": "0.066"
+	},
+	{
+		"word": "JAMISON",
+		"weight": "0.005"
+	},
+	{
+		"word": "JAN",
+		"weight": "0.019"
+	},
+	{
+		"word": "JARED",
+		"weight": "0.071"
+	},
+	{
+		"word": "JAROD",
+		"weight": "0.004"
+	},
+	{
+		"word": "JARRED",
+		"weight": "0.006"
+	},
+	{
+		"word": "JARRETT",
+		"weight": "0.007"
+	},
+	{
+		"word": "JARROD",
+		"weight": "0.014"
+	},
+	{
+		"word": "JARVIS",
+		"weight": "0.01"
+	},
+	{
+		"word": "JASON",
+		"weight": "0.66"
+	},
+	{
+		"word": "JASPER",
+		"weight": "0.015"
+	},
+	{
+		"word": "JAVIER",
+		"weight": "0.065"
+	},
+	{
+		"word": "JAY",
+		"weight": "0.118"
+	},
+	{
+		"word": "JAYSON",
+		"weight": "0.01"
+	},
+	{
+		"word": "JC",
+		"weight": "0.004"
+	},
+	{
+		"word": "JEAN",
+		"weight": "0.035"
+	},
+	{
+		"word": "JED",
+		"weight": "0.005"
+	},
+	{
+		"word": "JEFF",
+		"weight": "0.166"
+	},
+	{
+		"word": "JEFFEREY",
+		"weight": "0.005"
+	},
+	{
+		"word": "JEFFERSON",
+		"weight": "0.01"
+	},
+	{
+		"word": "JEFFERY",
+		"weight": "0.166"
+	},
+	{
+		"word": "JEFFREY",
+		"weight": "0.591"
+	},
+	{
+		"word": "JEFFRY",
+		"weight": "0.012"
+	},
+	{
+		"word": "JERALD",
+		"weight": "0.019"
+	},
+	{
+		"word": "JERAMY",
+		"weight": "0.004"
+	},
+	{
+		"word": "JERE",
+		"weight": "0.004"
+	},
+	{
+		"word": "JEREMIAH",
+		"weight": "0.042"
+	},
+	{
+		"word": "JEREMY",
+		"weight": "0.242"
+	},
+	{
+		"word": "JERMAINE",
+		"weight": "0.028"
+	},
+	{
+		"word": "JEROLD",
+		"weight": "0.006"
+	},
+	{
+		"word": "JEROME",
+		"weight": "0.108"
+	},
+	{
+		"word": "JEROMY",
+		"weight": "0.004"
+	},
+	{
+		"word": "JERRELL",
+		"weight": "0.004"
+	},
+	{
+		"word": "JERROD",
+		"weight": "0.006"
+	},
+	{
+		"word": "JERROLD",
+		"weight": "0.005"
+	},
+	{
+		"word": "JERRY",
+		"weight": "0.432"
+	},
+	{
+		"word": "JESS",
+		"weight": "0.018"
+	},
+	{
+		"word": "JESSE",
+		"weight": "0.209"
+	},
+	{
+		"word": "JESSIE",
+		"weight": "0.065"
+	},
+	{
+		"word": "JESUS",
+		"weight": "0.155"
+	},
+	{
+		"word": "JEWEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "JEWELL",
+		"weight": "0.004"
+	},
+	{
+		"word": "JIM",
+		"weight": "0.118"
+	},
+	{
+		"word": "JIMMIE",
+		"weight": "0.058"
+	},
+	{
+		"word": "JIMMY",
+		"weight": "0.191"
+	},
+	{
+		"word": "JOAN",
+		"weight": "0.008"
+	},
+	{
+		"word": "JOAQUIN",
+		"weight": "0.014"
+	},
+	{
+		"word": "JODY",
+		"weight": "0.024"
+	},
+	{
+		"word": "JOE",
+		"weight": "0.321"
+	},
+	{
+		"word": "JOEL",
+		"weight": "0.152"
+	},
+	{
+		"word": "JOESPH",
+		"weight": "0.012"
+	},
+	{
+		"word": "JOEY",
+		"weight": "0.043"
+	},
+	{
+		"word": "JOHN",
+		"weight": "3.271"
+	},
+	{
+		"word": "JOHNATHAN",
+		"weight": "0.034"
+	},
+	{
+		"word": "JOHNATHON",
+		"weight": "0.009"
+	},
+	{
+		"word": "JOHNIE",
+		"weight": "0.007"
+	},
+	{
+		"word": "JOHNNIE",
+		"weight": "0.052"
+	},
+	{
+		"word": "JOHNNY",
+		"weight": "0.195"
+	},
+	{
+		"word": "JOHNSON",
+		"weight": "0.004"
+	},
+	{
+		"word": "JON",
+		"weight": "0.115"
+	},
+	{
+		"word": "JONAH",
+		"weight": "0.005"
+	},
+	{
+		"word": "JONAS",
+		"weight": "0.007"
+	},
+	{
+		"word": "JONATHAN",
+		"weight": "0.313"
+	},
+	{
+		"word": "JONATHON",
+		"weight": "0.032"
+	},
+	{
+		"word": "JORDAN",
+		"weight": "0.056"
+	},
+	{
+		"word": "JORDON",
+		"weight": "0.004"
+	},
+	{
+		"word": "JORGE",
+		"weight": "0.104"
+	},
+	{
+		"word": "JOSE",
+		"weight": "0.613"
+	},
+	{
+		"word": "JOSEF",
+		"weight": "0.006"
+	},
+	{
+		"word": "JOSEPH",
+		"weight": "1.404"
+	},
+	{
+		"word": "JOSH",
+		"weight": "0.023"
+	},
+	{
+		"word": "JOSHUA",
+		"weight": "0.435"
+	},
+	{
+		"word": "JOSIAH",
+		"weight": "0.006"
+	},
+	{
+		"word": "JOSPEH",
+		"weight": "0.004"
+	},
+	{
+		"word": "JOSUE",
+		"weight": "0.008"
+	},
+	{
+		"word": "JUAN",
+		"weight": "0.316"
+	},
+	{
+		"word": "JUDE",
+		"weight": "0.004"
+	},
+	{
+		"word": "JUDSON",
+		"weight": "0.006"
+	},
+	{
+		"word": "JULES",
+		"weight": "0.006"
+	},
+	{
+		"word": "JULIAN",
+		"weight": "0.052"
+	},
+	{
+		"word": "JULIO",
+		"weight": "0.063"
+	},
+	{
+		"word": "JULIUS",
+		"weight": "0.042"
+	},
+	{
+		"word": "JUNIOR",
+		"weight": "0.016"
+	},
+	{
+		"word": "JUSTIN",
+		"weight": "0.311"
+	},
+	{
+		"word": "KAREEM",
+		"weight": "0.006"
+	},
+	{
+		"word": "KARL",
+		"weight": "0.069"
+	},
+	{
+		"word": "KASEY",
+		"weight": "0.004"
+	},
+	{
+		"word": "KEENAN",
+		"weight": "0.005"
+	},
+	{
+		"word": "KEITH",
+		"weight": "0.308"
+	},
+	{
+		"word": "KELLEY",
+		"weight": "0.004"
+	},
+	{
+		"word": "KELLY",
+		"weight": "0.063"
+	},
+	{
+		"word": "KELVIN",
+		"weight": "0.034"
+	},
+	{
+		"word": "KEN",
+		"weight": "0.055"
+	},
+	{
+		"word": "KENDALL",
+		"weight": "0.016"
+	},
+	{
+		"word": "KENDRICK",
+		"weight": "0.013"
+	},
+	{
+		"word": "KENETH",
+		"weight": "0.004"
+	},
+	{
+		"word": "KENNETH",
+		"weight": "0.826"
+	},
+	{
+		"word": "KENNITH",
+		"weight": "0.007"
+	},
+	{
+		"word": "KENNY",
+		"weight": "0.039"
+	},
+	{
+		"word": "KENT",
+		"weight": "0.048"
+	},
+	{
+		"word": "KENTON",
+		"weight": "0.005"
+	},
+	{
+		"word": "KERMIT",
+		"weight": "0.013"
+	},
+	{
+		"word": "KERRY",
+		"weight": "0.036"
+	},
+	{
+		"word": "KEVEN",
+		"weight": "0.005"
+	},
+	{
+		"word": "KEVIN",
+		"weight": "0.671"
+	},
+	{
+		"word": "KIETH",
+		"weight": "0.006"
+	},
+	{
+		"word": "KIM",
+		"weight": "0.028"
+	},
+	{
+		"word": "KING",
+		"weight": "0.004"
+	},
+	{
+		"word": "KIP",
+		"weight": "0.005"
+	},
+	{
+		"word": "KIRBY",
+		"weight": "0.009"
+	},
+	{
+		"word": "KIRK",
+		"weight": "0.049"
+	},
+	{
+		"word": "KOREY",
+		"weight": "0.004"
+	},
+	{
+		"word": "KORY",
+		"weight": "0.005"
+	},
+	{
+		"word": "KRAIG",
+		"weight": "0.004"
+	},
+	{
+		"word": "KRIS",
+		"weight": "0.011"
+	},
+	{
+		"word": "KRISTOFER",
+		"weight": "0.004"
+	},
+	{
+		"word": "KRISTOPHER",
+		"weight": "0.025"
+	},
+	{
+		"word": "KURT",
+		"weight": "0.062"
+	},
+	{
+		"word": "KURTIS",
+		"weight": "0.009"
+	},
+	{
+		"word": "KYLE",
+		"weight": "0.16"
+	},
+	{
+		"word": "LACY",
+		"weight": "0.004"
+	},
+	{
+		"word": "LAMAR",
+		"weight": "0.021"
+	},
+	{
+		"word": "LAMONT",
+		"weight": "0.017"
+	},
+	{
+		"word": "LANCE",
+		"weight": "0.063"
+	},
+	{
+		"word": "LANDON",
+		"weight": "0.008"
+	},
+	{
+		"word": "LANE",
+		"weight": "0.009"
+	},
+	{
+		"word": "LANNY",
+		"weight": "0.006"
+	},
+	{
+		"word": "LARRY",
+		"weight": "0.598"
+	},
+	{
+		"word": "LAUREN",
+		"weight": "0.004"
+	},
+	{
+		"word": "LAURENCE",
+		"weight": "0.024"
+	},
+	{
+		"word": "LAVERN",
+		"weight": "0.006"
+	},
+	{
+		"word": "LAVERNE",
+		"weight": "0.008"
+	},
+	{
+		"word": "LAWERENCE",
+		"weight": "0.005"
+	},
+	{
+		"word": "LAWRENCE",
+		"weight": "0.282"
+	},
+	{
+		"word": "LAZARO",
+		"weight": "0.007"
+	},
+	{
+		"word": "LEANDRO",
+		"weight": "0.004"
+	},
+	{
+		"word": "LEE",
+		"weight": "0.162"
+	},
+	{
+		"word": "LEIF",
+		"weight": "0.004"
+	},
+	{
+		"word": "LEIGH",
+		"weight": "0.004"
+	},
+	{
+		"word": "LELAND",
+		"weight": "0.027"
+	},
+	{
+		"word": "LEMUEL",
+		"weight": "0.006"
+	},
+	{
+		"word": "LEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "LENARD",
+		"weight": "0.005"
+	},
+	{
+		"word": "LENNY",
+		"weight": "0.005"
+	},
+	{
+		"word": "LEO",
+		"weight": "0.106"
+	},
+	{
+		"word": "LEON",
+		"weight": "0.112"
+	},
+	{
+		"word": "LEONARD",
+		"weight": "0.186"
+	},
+	{
+		"word": "LEONARDO",
+		"weight": "0.015"
+	},
+	{
+		"word": "LEONEL",
+		"weight": "0.008"
+	},
+	{
+		"word": "LEOPOLDO",
+		"weight": "0.006"
+	},
+	{
+		"word": "LEROY",
+		"weight": "0.125"
+	},
+	{
+		"word": "LES",
+		"weight": "0.006"
+	},
+	{
+		"word": "LESLEY",
+		"weight": "0.004"
+	},
+	{
+		"word": "LESLIE",
+		"weight": "0.081"
+	},
+	{
+		"word": "LESTER",
+		"weight": "0.091"
+	},
+	{
+		"word": "LEVI",
+		"weight": "0.025"
+	},
+	{
+		"word": "LEWIS",
+		"weight": "0.099"
+	},
+	{
+		"word": "LINCOLN",
+		"weight": "0.008"
+	},
+	{
+		"word": "LINDSAY",
+		"weight": "0.004"
+	},
+	{
+		"word": "LINDSEY",
+		"weight": "0.007"
+	},
+	{
+		"word": "LINO",
+		"weight": "0.004"
+	},
+	{
+		"word": "LINWOOD",
+		"weight": "0.009"
+	},
+	{
+		"word": "LIONEL",
+		"weight": "0.024"
+	},
+	{
+		"word": "LLOYD",
+		"weight": "0.112"
+	},
+	{
+		"word": "LOGAN",
+		"weight": "0.017"
+	},
+	{
+		"word": "LON",
+		"weight": "0.007"
+	},
+	{
+		"word": "LONG",
+		"weight": "0.004"
+	},
+	{
+		"word": "LONNIE",
+		"weight": "0.064"
+	},
+	{
+		"word": "LONNY",
+		"weight": "0.004"
+	},
+	{
+		"word": "LOREN",
+		"weight": "0.032"
+	},
+	{
+		"word": "LORENZO",
+		"weight": "0.036"
+	},
+	{
+		"word": "LOU",
+		"weight": "0.005"
+	},
+	{
+		"word": "LOUIE",
+		"weight": "0.018"
+	},
+	{
+		"word": "LOUIS",
+		"weight": "0.243"
+	},
+	{
+		"word": "LOWELL",
+		"weight": "0.029"
+	},
+	{
+		"word": "LOYD",
+		"weight": "0.011"
+	},
+	{
+		"word": "LUCAS",
+		"weight": "0.031"
+	},
+	{
+		"word": "LUCIANO",
+		"weight": "0.007"
+	},
+	{
+		"word": "LUCIEN",
+		"weight": "0.007"
+	},
+	{
+		"word": "LUCIO",
+		"weight": "0.006"
+	},
+	{
+		"word": "LUCIUS",
+		"weight": "0.004"
+	},
+	{
+		"word": "LUIGI",
+		"weight": "0.004"
+	},
+	{
+		"word": "LUIS",
+		"weight": "0.189"
+	},
+	{
+		"word": "LUKE",
+		"weight": "0.04"
+	},
+	{
+		"word": "LUPE",
+		"weight": "0.005"
+	},
+	{
+		"word": "LUTHER",
+		"weight": "0.043"
+	},
+	{
+		"word": "LYLE",
+		"weight": "0.038"
+	},
+	{
+		"word": "LYMAN",
+		"weight": "0.006"
+	},
+	{
+		"word": "LYNDON",
+		"weight": "0.005"
+	},
+	{
+		"word": "LYNN",
+		"weight": "0.038"
+	},
+	{
+		"word": "LYNWOOD",
+		"weight": "0.004"
+	},
+	{
+		"word": "MAC",
+		"weight": "0.005"
+	},
+	{
+		"word": "MACK",
+		"weight": "0.025"
+	},
+	{
+		"word": "MAJOR",
+		"weight": "0.007"
+	},
+	{
+		"word": "MALCOLM",
+		"weight": "0.034"
+	},
+	{
+		"word": "MALCOM",
+		"weight": "0.004"
+	},
+	{
+		"word": "MALIK",
+		"weight": "0.004"
+	},
+	{
+		"word": "MAN",
+		"weight": "0.004"
+	},
+	{
+		"word": "MANUAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "MANUEL",
+		"weight": "0.181"
+	},
+	{
+		"word": "MARC",
+		"weight": "0.087"
+	},
+	{
+		"word": "MARCEL",
+		"weight": "0.012"
+	},
+	{
+		"word": "MARCELINO",
+		"weight": "0.009"
+	},
+	{
+		"word": "MARCELLUS",
+		"weight": "0.004"
+	},
+	{
+		"word": "MARCELO",
+		"weight": "0.005"
+	},
+	{
+		"word": "MARCO",
+		"weight": "0.033"
+	},
+	{
+		"word": "MARCOS",
+		"weight": "0.025"
+	},
+	{
+		"word": "MARCUS",
+		"weight": "0.124"
+	},
+	{
+		"word": "MARGARITO",
+		"weight": "0.006"
+	},
+	{
+		"word": "MARIA",
+		"weight": "0.005"
+	},
+	{
+		"word": "MARIANO",
+		"weight": "0.008"
+	},
+	{
+		"word": "MARIO",
+		"weight": "0.125"
+	},
+	{
+		"word": "MARION",
+		"weight": "0.048"
+	},
+	{
+		"word": "MARK",
+		"weight": "0.938"
+	},
+	{
+		"word": "MARKUS",
+		"weight": "0.005"
+	},
+	{
+		"word": "MARLIN",
+		"weight": "0.012"
+	},
+	{
+		"word": "MARLON",
+		"weight": "0.019"
+	},
+	{
+		"word": "MARQUIS",
+		"weight": "0.006"
+	},
+	{
+		"word": "MARSHALL",
+		"weight": "0.049"
+	},
+	{
+		"word": "MARTIN",
+		"weight": "0.216"
+	},
+	{
+		"word": "MARTY",
+		"weight": "0.024"
+	},
+	{
+		"word": "MARVIN",
+		"weight": "0.171"
+	},
+	{
+		"word": "MARY",
+		"weight": "0.009"
+	},
+	{
+		"word": "MASON",
+		"weight": "0.012"
+	},
+	{
+		"word": "MATHEW",
+		"weight": "0.064"
+	},
+	{
+		"word": "MATT",
+		"weight": "0.038"
+	},
+	{
+		"word": "MATTHEW",
+		"weight": "0.657"
+	},
+	{
+		"word": "MAURICE",
+		"weight": "0.097"
+	},
+	{
+		"word": "MAURICIO",
+		"weight": "0.01"
+	},
+	{
+		"word": "MAURO",
+		"weight": "0.005"
+	},
+	{
+		"word": "MAX",
+		"weight": "0.059"
+	},
+	{
+		"word": "MAXIMO",
+		"weight": "0.005"
+	},
+	{
+		"word": "MAXWELL",
+		"weight": "0.01"
+	},
+	{
+		"word": "MAYNARD",
+		"weight": "0.01"
+	},
+	{
+		"word": "MCKINLEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "MEL",
+		"weight": "0.005"
+	},
+	{
+		"word": "MELVIN",
+		"weight": "0.162"
+	},
+	{
+		"word": "MERLE",
+		"weight": "0.021"
+	},
+	{
+		"word": "MERLIN",
+		"weight": "0.009"
+	},
+	{
+		"word": "MERRILL",
+		"weight": "0.009"
+	},
+	{
+		"word": "MERVIN",
+		"weight": "0.007"
+	},
+	{
+		"word": "MICAH",
+		"weight": "0.017"
+	},
+	{
+		"word": "MICHAEL",
+		"weight": "2.629"
+	},
+	{
+		"word": "MICHAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "MICHALE",
+		"weight": "0.004"
+	},
+	{
+		"word": "MICHEAL",
+		"weight": "0.123"
+	},
+	{
+		"word": "MICHEL",
+		"weight": "0.012"
+	},
+	{
+		"word": "MICKEY",
+		"weight": "0.016"
+	},
+	{
+		"word": "MIGUEL",
+		"weight": "0.122"
+	},
+	{
+		"word": "MIKE",
+		"weight": "0.189"
+	},
+	{
+		"word": "MIKEL",
+		"weight": "0.005"
+	},
+	{
+		"word": "MILAN",
+		"weight": "0.004"
+	},
+	{
+		"word": "MILES",
+		"weight": "0.017"
+	},
+	{
+		"word": "MILFORD",
+		"weight": "0.006"
+	},
+	{
+		"word": "MILLARD",
+		"weight": "0.011"
+	},
+	{
+		"word": "MILO",
+		"weight": "0.005"
+	},
+	{
+		"word": "MILTON",
+		"weight": "0.08"
+	},
+	{
+		"word": "MINH",
+		"weight": "0.005"
+	},
+	{
+		"word": "MIQUEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "MITCH",
+		"weight": "0.006"
+	},
+	{
+		"word": "MITCHEL",
+		"weight": "0.007"
+	},
+	{
+		"word": "MITCHELL",
+		"weight": "0.072"
+	},
+	{
+		"word": "MODESTO",
+		"weight": "0.004"
+	},
+	{
+		"word": "MOHAMED",
+		"weight": "0.005"
+	},
+	{
+		"word": "MOHAMMAD",
+		"weight": "0.008"
+	},
+	{
+		"word": "MOHAMMED",
+		"weight": "0.007"
+	},
+	{
+		"word": "MOISES",
+		"weight": "0.013"
+	},
+	{
+		"word": "MONROE",
+		"weight": "0.008"
+	},
+	{
+		"word": "MONTE",
+		"weight": "0.015"
+	},
+	{
+		"word": "MONTY",
+		"weight": "0.012"
+	},
+	{
+		"word": "MORGAN",
+		"weight": "0.018"
+	},
+	{
+		"word": "MORRIS",
+		"weight": "0.051"
+	},
+	{
+		"word": "MORTON",
+		"weight": "0.007"
+	},
+	{
+		"word": "MOSE",
+		"weight": "0.004"
+	},
+	{
+		"word": "MOSES",
+		"weight": "0.02"
+	},
+	{
+		"word": "MOSHE",
+		"weight": "0.005"
+	},
+	{
+		"word": "MURRAY",
+		"weight": "0.015"
+	},
+	{
+		"word": "MYLES",
+		"weight": "0.007"
+	},
+	{
+		"word": "MYRON",
+		"weight": "0.03"
+	},
+	{
+		"word": "NAPOLEON",
+		"weight": "0.006"
+	},
+	{
+		"word": "NATHAN",
+		"weight": "0.185"
+	},
+	{
+		"word": "NATHANAEL",
+		"weight": "0.004"
+	},
+	{
+		"word": "NATHANIAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "NATHANIEL",
+		"weight": "0.081"
+	},
+	{
+		"word": "NEAL",
+		"weight": "0.037"
+	},
+	{
+		"word": "NED",
+		"weight": "0.012"
+	},
+	{
+		"word": "NEIL",
+		"weight": "0.066"
+	},
+	{
+		"word": "NELSON",
+		"weight": "0.061"
+	},
+	{
+		"word": "NESTOR",
+		"weight": "0.009"
+	},
+	{
+		"word": "NEVILLE",
+		"weight": "0.004"
+	},
+	{
+		"word": "NEWTON",
+		"weight": "0.005"
+	},
+	{
+		"word": "NICHOLAS",
+		"weight": "0.275"
+	},
+	{
+		"word": "NICK",
+		"weight": "0.043"
+	},
+	{
+		"word": "NICKOLAS",
+		"weight": "0.01"
+	},
+	{
+		"word": "NICKY",
+		"weight": "0.004"
+	},
+	{
+		"word": "NICOLAS",
+		"weight": "0.024"
+	},
+	{
+		"word": "NIGEL",
+		"weight": "0.006"
+	},
+	{
+		"word": "NOAH",
+		"weight": "0.022"
+	},
+	{
+		"word": "NOBLE",
+		"weight": "0.005"
+	},
+	{
+		"word": "NOE",
+		"weight": "0.011"
+	},
+	{
+		"word": "NOEL",
+		"weight": "0.03"
+	},
+	{
+		"word": "NOLAN",
+		"weight": "0.013"
+	},
+	{
+		"word": "NORBERT",
+		"weight": "0.013"
+	},
+	{
+		"word": "NORBERTO",
+		"weight": "0.006"
+	},
+	{
+		"word": "NORMAN",
+		"weight": "0.177"
+	},
+	{
+		"word": "NORMAND",
+		"weight": "0.006"
+	},
+	{
+		"word": "NORRIS",
+		"weight": "0.011"
+	},
+	{
+		"word": "NUMBERS",
+		"weight": "0.008"
+	},
+	{
+		"word": "OCTAVIO",
+		"weight": "0.008"
+	},
+	{
+		"word": "ODELL",
+		"weight": "0.01"
+	},
+	{
+		"word": "ODIS",
+		"weight": "0.005"
+	},
+	{
+		"word": "OLEN",
+		"weight": "0.005"
+	},
+	{
+		"word": "OLIN",
+		"weight": "0.006"
+	},
+	{
+		"word": "OLIVER",
+		"weight": "0.04"
+	},
+	{
+		"word": "OLLIE",
+		"weight": "0.01"
+	},
+	{
+		"word": "OMAR",
+		"weight": "0.036"
+	},
+	{
+		"word": "OMER",
+		"weight": "0.005"
+	},
+	{
+		"word": "OREN",
+		"weight": "0.005"
+	},
+	{
+		"word": "ORLANDO",
+		"weight": "0.037"
+	},
+	{
+		"word": "ORVAL",
+		"weight": "0.005"
+	},
+	{
+		"word": "ORVILLE",
+		"weight": "0.024"
+	},
+	{
+		"word": "OSCAR",
+		"weight": "0.122"
+	},
+	{
+		"word": "OSVALDO",
+		"weight": "0.006"
+	},
+	{
+		"word": "OSWALDO",
+		"weight": "0.004"
+	},
+	{
+		"word": "OTHA",
+		"weight": "0.004"
+	},
+	{
+		"word": "OTIS",
+		"weight": "0.041"
+	},
+	{
+		"word": "OTTO",
+		"weight": "0.018"
+	},
+	{
+		"word": "OWEN",
+		"weight": "0.026"
+	},
+	{
+		"word": "PABLO",
+		"weight": "0.036"
+	},
+	{
+		"word": "PALMER",
+		"weight": "0.004"
+	},
+	{
+		"word": "PARIS",
+		"weight": "0.004"
+	},
+	{
+		"word": "PARKER",
+		"weight": "0.006"
+	},
+	{
+		"word": "PASQUALE",
+		"weight": "0.008"
+	},
+	{
+		"word": "PAT",
+		"weight": "0.022"
+	},
+	{
+		"word": "PATRICIA",
+		"weight": "0.004"
+	},
+	{
+		"word": "PATRICK",
+		"weight": "0.389"
+	},
+	{
+		"word": "PAUL",
+		"weight": "0.948"
+	},
+	{
+		"word": "PEDRO",
+		"weight": "0.103"
+	},
+	{
+		"word": "PERCY",
+		"weight": "0.021"
+	},
+	{
+		"word": "PERRY",
+		"weight": "0.049"
+	},
+	{
+		"word": "PETE",
+		"weight": "0.032"
+	},
+	{
+		"word": "PETER",
+		"weight": "0.381"
+	},
+	{
+		"word": "PHIL",
+		"weight": "0.021"
+	},
+	{
+		"word": "PHILIP",
+		"weight": "0.197"
+	},
+	{
+		"word": "PHILLIP",
+		"weight": "0.213"
+	},
+	{
+		"word": "PIERRE",
+		"weight": "0.016"
+	},
+	{
+		"word": "PORFIRIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "PORTER",
+		"weight": "0.004"
+	},
+	{
+		"word": "PRESTON",
+		"weight": "0.034"
+	},
+	{
+		"word": "PRINCE",
+		"weight": "0.005"
+	},
+	{
+		"word": "QUENTIN",
+		"weight": "0.015"
+	},
+	{
+		"word": "QUINCY",
+		"weight": "0.01"
+	},
+	{
+		"word": "QUINN",
+		"weight": "0.005"
+	},
+	{
+		"word": "QUINTIN",
+		"weight": "0.005"
+	},
+	{
+		"word": "QUINTON",
+		"weight": "0.013"
+	},
+	{
+		"word": "RAFAEL",
+		"weight": "0.081"
+	},
+	{
+		"word": "RALEIGH",
+		"weight": "0.005"
+	},
+	{
+		"word": "RALPH",
+		"weight": "0.282"
+	},
+	{
+		"word": "RAMIRO",
+		"weight": "0.022"
+	},
+	{
+		"word": "RAMON",
+		"weight": "0.09"
+	},
+	{
+		"word": "RANDAL",
+		"weight": "0.02"
+	},
+	{
+		"word": "RANDALL",
+		"weight": "0.138"
+	},
+	{
+		"word": "RANDELL",
+		"weight": "0.007"
+	},
+	{
+		"word": "RANDOLPH",
+		"weight": "0.032"
+	},
+	{
+		"word": "RANDY",
+		"weight": "0.232"
+	},
+	{
+		"word": "RAPHAEL",
+		"weight": "0.012"
+	},
+	{
+		"word": "RASHAD",
+		"weight": "0.004"
+	},
+	{
+		"word": "RAUL",
+		"weight": "0.079"
+	},
+	{
+		"word": "RAY",
+		"weight": "0.153"
+	},
+	{
+		"word": "RAYFORD",
+		"weight": "0.004"
+	},
+	{
+		"word": "RAYMON",
+		"weight": "0.004"
+	},
+	{
+		"word": "RAYMOND",
+		"weight": "0.488"
+	},
+	{
+		"word": "RAYMUNDO",
+		"weight": "0.008"
+	},
+	{
+		"word": "REED",
+		"weight": "0.01"
+	},
+	{
+		"word": "REFUGIO",
+		"weight": "0.006"
+	},
+	{
+		"word": "REGGIE",
+		"weight": "0.012"
+	},
+	{
+		"word": "REGINALD",
+		"weight": "0.084"
+	},
+	{
+		"word": "REID",
+		"weight": "0.007"
+	},
+	{
+		"word": "REINALDO",
+		"weight": "0.006"
+	},
+	{
+		"word": "RENALDO",
+		"weight": "0.004"
+	},
+	{
+		"word": "RENATO",
+		"weight": "0.004"
+	},
+	{
+		"word": "RENE",
+		"weight": "0.048"
+	},
+	{
+		"word": "REUBEN",
+		"weight": "0.015"
+	},
+	{
+		"word": "REX",
+		"weight": "0.037"
+	},
+	{
+		"word": "REY",
+		"weight": "0.004"
+	},
+	{
+		"word": "REYES",
+		"weight": "0.005"
+	},
+	{
+		"word": "REYNALDO",
+		"weight": "0.018"
+	},
+	{
+		"word": "RHETT",
+		"weight": "0.004"
+	},
+	{
+		"word": "RICARDO",
+		"weight": "0.093"
+	},
+	{
+		"word": "RICH",
+		"weight": "0.007"
+	},
+	{
+		"word": "RICHARD",
+		"weight": "1.703"
+	},
+	{
+		"word": "RICHIE",
+		"weight": "0.005"
+	},
+	{
+		"word": "RICK",
+		"weight": "0.091"
+	},
+	{
+		"word": "RICKEY",
+		"weight": "0.035"
+	},
+	{
+		"word": "RICKIE",
+		"weight": "0.011"
+	},
+	{
+		"word": "RICKY",
+		"weight": "0.141"
+	},
+	{
+		"word": "RICO",
+		"weight": "0.006"
+	},
+	{
+		"word": "RIGOBERTO",
+		"weight": "0.011"
+	},
+	{
+		"word": "RILEY",
+		"weight": "0.01"
+	},
+	{
+		"word": "ROB",
+		"weight": "0.013"
+	},
+	{
+		"word": "ROBBIE",
+		"weight": "0.016"
+	},
+	{
+		"word": "ROBBY",
+		"weight": "0.008"
+	},
+	{
+		"word": "ROBERT",
+		"weight": "3.143"
+	},
+	{
+		"word": "ROBERTO",
+		"weight": "0.097"
+	},
+	{
+		"word": "ROBIN",
+		"weight": "0.032"
+	},
+	{
+		"word": "ROBT",
+		"weight": "0.005"
+	},
+	{
+		"word": "ROCCO",
+		"weight": "0.011"
+	},
+	{
+		"word": "ROCKY",
+		"weight": "0.016"
+	},
+	{
+		"word": "ROD",
+		"weight": "0.013"
+	},
+	{
+		"word": "RODERICK",
+		"weight": "0.036"
+	},
+	{
+		"word": "RODGER",
+		"weight": "0.017"
+	},
+	{
+		"word": "RODNEY",
+		"weight": "0.18"
+	},
+	{
+		"word": "RODOLFO",
+		"weight": "0.03"
+	},
+	{
+		"word": "RODRICK",
+		"weight": "0.006"
+	},
+	{
+		"word": "RODRIGO",
+		"weight": "0.011"
+	},
+	{
+		"word": "ROGELIO",
+		"weight": "0.022"
+	},
+	{
+		"word": "ROGER",
+		"weight": "0.322"
+	},
+	{
+		"word": "ROLAND",
+		"weight": "0.072"
+	},
+	{
+		"word": "ROLANDO",
+		"weight": "0.021"
+	},
+	{
+		"word": "ROLF",
+		"weight": "0.004"
+	},
+	{
+		"word": "ROLLAND",
+		"weight": "0.005"
+	},
+	{
+		"word": "ROMAN",
+		"weight": "0.02"
+	},
+	{
+		"word": "ROMEO",
+		"weight": "0.01"
+	},
+	{
+		"word": "RON",
+		"weight": "0.072"
+	},
+	{
+		"word": "RONALD",
+		"weight": "0.725"
+	},
+	{
+		"word": "RONNIE",
+		"weight": "0.113"
+	},
+	{
+		"word": "RONNY",
+		"weight": "0.007"
+	},
+	{
+		"word": "ROOSEVELT",
+		"weight": "0.028"
+	},
+	{
+		"word": "RORY",
+		"weight": "0.012"
+	},
+	{
+		"word": "ROSARIO",
+		"weight": "0.005"
+	},
+	{
+		"word": "ROSCOE",
+		"weight": "0.013"
+	},
+	{
+		"word": "ROSENDO",
+		"weight": "0.006"
+	},
+	{
+		"word": "ROSS",
+		"weight": "0.05"
+	},
+	{
+		"word": "ROY",
+		"weight": "0.273"
+	},
+	{
+		"word": "ROYAL",
+		"weight": "0.006"
+	},
+	{
+		"word": "ROYCE",
+		"weight": "0.016"
+	},
+	{
+		"word": "RUBEN",
+		"weight": "0.082"
+	},
+	{
+		"word": "RUBIN",
+		"weight": "0.006"
+	},
+	{
+		"word": "RUDOLF",
+		"weight": "0.004"
+	},
+	{
+		"word": "RUDOLPH",
+		"weight": "0.034"
+	},
+	{
+		"word": "RUDY",
+		"weight": "0.034"
+	},
+	{
+		"word": "RUEBEN",
+		"weight": "0.004"
+	},
+	{
+		"word": "RUFUS",
+		"weight": "0.025"
+	},
+	{
+		"word": "RUPERT",
+		"weight": "0.005"
+	},
+	{
+		"word": "RUSS",
+		"weight": "0.007"
+	},
+	{
+		"word": "RUSSEL",
+		"weight": "0.015"
+	},
+	{
+		"word": "RUSSELL",
+		"weight": "0.224"
+	},
+	{
+		"word": "RUSTY",
+		"weight": "0.012"
+	},
+	{
+		"word": "RYAN",
+		"weight": "0.328"
+	},
+	{
+		"word": "SAL",
+		"weight": "0.005"
+	},
+	{
+		"word": "SALVADOR",
+		"weight": "0.049"
+	},
+	{
+		"word": "SALVATORE",
+		"weight": "0.029"
+	},
+	{
+		"word": "SAM",
+		"weight": "0.092"
+	},
+	{
+		"word": "SAMMIE",
+		"weight": "0.012"
+	},
+	{
+		"word": "SAMMY",
+		"weight": "0.025"
+	},
+	{
+		"word": "SAMUAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "SAMUEL",
+		"weight": "0.306"
+	},
+	{
+		"word": "SANDY",
+		"weight": "0.007"
+	},
+	{
+		"word": "SANFORD",
+		"weight": "0.009"
+	},
+	{
+		"word": "SANG",
+		"weight": "0.006"
+	},
+	{
+		"word": "SANTIAGO",
+		"weight": "0.022"
+	},
+	{
+		"word": "SANTO",
+		"weight": "0.004"
+	},
+	{
+		"word": "SANTOS",
+		"weight": "0.019"
+	},
+	{
+		"word": "SAUL",
+		"weight": "0.02"
+	},
+	{
+		"word": "SCOT",
+		"weight": "0.01"
+	},
+	{
+		"word": "SCOTT",
+		"weight": "0.546"
+	},
+	{
+		"word": "SCOTTIE",
+		"weight": "0.007"
+	},
+	{
+		"word": "SCOTTY",
+		"weight": "0.013"
+	},
+	{
+		"word": "SEAN",
+		"weight": "0.197"
+	},
+	{
+		"word": "SEBASTIAN",
+		"weight": "0.01"
+	},
+	{
+		"word": "SERGIO",
+		"weight": "0.049"
+	},
+	{
+		"word": "SETH",
+		"weight": "0.048"
+	},
+	{
+		"word": "SEYMOUR",
+		"weight": "0.007"
+	},
+	{
+		"word": "SHAD",
+		"weight": "0.004"
+	},
+	{
+		"word": "SHANE",
+		"weight": "0.093"
+	},
+	{
+		"word": "SHANNON",
+		"weight": "0.04"
+	},
+	{
+		"word": "SHAUN",
+		"weight": "0.039"
+	},
+	{
+		"word": "SHAWN",
+		"weight": "0.2"
+	},
+	{
+		"word": "SHAYNE",
+		"weight": "0.004"
+	},
+	{
+		"word": "SHELBY",
+		"weight": "0.011"
+	},
+	{
+		"word": "SHELDON",
+		"weight": "0.023"
+	},
+	{
+		"word": "SHELTON",
+		"weight": "0.008"
+	},
+	{
+		"word": "SHERMAN",
+		"weight": "0.028"
+	},
+	{
+		"word": "SHERWOOD",
+		"weight": "0.004"
+	},
+	{
+		"word": "SHIRLEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "SHON",
+		"weight": "0.004"
+	},
+	{
+		"word": "SID",
+		"weight": "0.004"
+	},
+	{
+		"word": "SIDNEY",
+		"weight": "0.052"
+	},
+	{
+		"word": "SILAS",
+		"weight": "0.009"
+	},
+	{
+		"word": "SIMON",
+		"weight": "0.026"
+	},
+	{
+		"word": "SOL",
+		"weight": "0.005"
+	},
+	{
+		"word": "SOLOMON",
+		"weight": "0.013"
+	},
+	{
+		"word": "SON",
+		"weight": "0.012"
+	},
+	{
+		"word": "SONNY",
+		"weight": "0.008"
+	},
+	{
+		"word": "SPENCER",
+		"weight": "0.03"
+	},
+	{
+		"word": "STACEY",
+		"weight": "0.011"
+	},
+	{
+		"word": "STACY",
+		"weight": "0.017"
+	},
+	{
+		"word": "STAN",
+		"weight": "0.015"
+	},
+	{
+		"word": "STANFORD",
+		"weight": "0.005"
+	},
+	{
+		"word": "STANLEY",
+		"weight": "0.186"
+	},
+	{
+		"word": "STANTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "STEFAN",
+		"weight": "0.009"
+	},
+	{
+		"word": "STEPHAN",
+		"weight": "0.018"
+	},
+	{
+		"word": "STEPHEN",
+		"weight": "0.54"
+	},
+	{
+		"word": "STERLING",
+		"weight": "0.016"
+	},
+	{
+		"word": "STEVE",
+		"weight": "0.246"
+	},
+	{
+		"word": "STEVEN",
+		"weight": "0.78"
+	},
+	{
+		"word": "STEVIE",
+		"weight": "0.007"
+	},
+	{
+		"word": "STEWART",
+		"weight": "0.022"
+	},
+	{
+		"word": "STUART",
+		"weight": "0.044"
+	},
+	{
+		"word": "SUNG",
+		"weight": "0.005"
+	},
+	{
+		"word": "SYDNEY",
+		"weight": "0.007"
+	},
+	{
+		"word": "SYLVESTER",
+		"weight": "0.028"
+	},
+	{
+		"word": "TAD",
+		"weight": "0.005"
+	},
+	{
+		"word": "TANNER",
+		"weight": "0.006"
+	},
+	{
+		"word": "TAYLOR",
+		"weight": "0.024"
+	},
+	{
+		"word": "TED",
+		"weight": "0.064"
+	},
+	{
+		"word": "TEDDY",
+		"weight": "0.018"
+	},
+	{
+		"word": "TEODORO",
+		"weight": "0.005"
+	},
+	{
+		"word": "TERENCE",
+		"weight": "0.022"
+	},
+	{
+		"word": "TERRANCE",
+		"weight": "0.048"
+	},
+	{
+		"word": "TERRELL",
+		"weight": "0.02"
+	},
+	{
+		"word": "TERRENCE",
+		"weight": "0.047"
+	},
+	{
+		"word": "TERRY",
+		"weight": "0.311"
+	},
+	{
+		"word": "THAD",
+		"weight": "0.007"
+	},
+	{
+		"word": "THADDEUS",
+		"weight": "0.012"
+	},
+	{
+		"word": "THANH",
+		"weight": "0.005"
+	},
+	{
+		"word": "THEO",
+		"weight": "0.005"
+	},
+	{
+		"word": "THEODORE",
+		"weight": "0.123"
+	},
+	{
+		"word": "THERON",
+		"weight": "0.008"
+	},
+	{
+		"word": "THOMAS",
+		"weight": "1.38"
+	},
+	{
+		"word": "THURMAN",
+		"weight": "0.012"
+	},
+	{
+		"word": "TIM",
+		"weight": "0.104"
+	},
+	{
+		"word": "TIMMY",
+		"weight": "0.019"
+	},
+	{
+		"word": "TIMOTHY",
+		"weight": "0.64"
+	},
+	{
+		"word": "TITUS",
+		"weight": "0.004"
+	},
+	{
+		"word": "TOBIAS",
+		"weight": "0.005"
+	},
+	{
+		"word": "TOBY",
+		"weight": "0.019"
+	},
+	{
+		"word": "TOD",
+		"weight": "0.005"
+	},
+	{
+		"word": "TODD",
+		"weight": "0.213"
+	},
+	{
+		"word": "TOM",
+		"weight": "0.117"
+	},
+	{
+		"word": "TOMAS",
+		"weight": "0.023"
+	},
+	{
+		"word": "TOMMIE",
+		"weight": "0.02"
+	},
+	{
+		"word": "TOMMY",
+		"weight": "0.112"
+	},
+	{
+		"word": "TONEY",
+		"weight": "0.004"
+	},
+	{
+		"word": "TONY",
+		"weight": "0.19"
+	},
+	{
+		"word": "TORY",
+		"weight": "0.005"
+	},
+	{
+		"word": "TRACEY",
+		"weight": "0.007"
+	},
+	{
+		"word": "TRACY",
+		"weight": "0.048"
+	},
+	{
+		"word": "TRAVIS",
+		"weight": "0.166"
+	},
+	{
+		"word": "TRENT",
+		"weight": "0.018"
+	},
+	{
+		"word": "TRENTON",
+		"weight": "0.009"
+	},
+	{
+		"word": "TREVOR",
+		"weight": "0.04"
+	},
+	{
+		"word": "TREY",
+		"weight": "0.006"
+	},
+	{
+		"word": "TRINIDAD",
+		"weight": "0.005"
+	},
+	{
+		"word": "TRISTAN",
+		"weight": "0.008"
+	},
+	{
+		"word": "TROY",
+		"weight": "0.138"
+	},
+	{
+		"word": "TRUMAN",
+		"weight": "0.009"
+	},
+	{
+		"word": "TUAN",
+		"weight": "0.004"
+	},
+	{
+		"word": "TY",
+		"weight": "0.011"
+	},
+	{
+		"word": "TYLER",
+		"weight": "0.089"
+	},
+	{
+		"word": "TYREE",
+		"weight": "0.005"
+	},
+	{
+		"word": "TYRELL",
+		"weight": "0.005"
+	},
+	{
+		"word": "TYRON",
+		"weight": "0.005"
+	},
+	{
+		"word": "TYRONE",
+		"weight": "0.064"
+	},
+	{
+		"word": "TYSON",
+		"weight": "0.014"
+	},
+	{
+		"word": "ULYSSES",
+		"weight": "0.01"
+	},
+	{
+		"word": "VAL",
+		"weight": "0.004"
+	},
+	{
+		"word": "VALENTIN",
+		"weight": "0.007"
+	},
+	{
+		"word": "VALENTINE",
+		"weight": "0.005"
+	},
+	{
+		"word": "VAN",
+		"weight": "0.019"
+	},
+	{
+		"word": "VANCE",
+		"weight": "0.014"
+	},
+	{
+		"word": "VAUGHN",
+		"weight": "0.011"
+	},
+	{
+		"word": "VERN",
+		"weight": "0.01"
+	},
+	{
+		"word": "VERNON",
+		"weight": "0.097"
+	},
+	{
+		"word": "VICENTE",
+		"weight": "0.017"
+	},
+	{
+		"word": "VICTOR",
+		"weight": "0.222"
+	},
+	{
+		"word": "VINCE",
+		"weight": "0.01"
+	},
+	{
+		"word": "VINCENT",
+		"weight": "0.168"
+	},
+	{
+		"word": "VINCENZO",
+		"weight": "0.004"
+	},
+	{
+		"word": "VIRGIL",
+		"weight": "0.049"
+	},
+	{
+		"word": "VIRGILIO",
+		"weight": "0.004"
+	},
+	{
+		"word": "VITO",
+		"weight": "0.009"
+	},
+	{
+		"word": "VON",
+		"weight": "0.004"
+	},
+	{
+		"word": "WADE",
+		"weight": "0.045"
+	},
+	{
+		"word": "WALDO",
+		"weight": "0.005"
+	},
+	{
+		"word": "WALKER",
+		"weight": "0.005"
+	},
+	{
+		"word": "WALLACE",
+		"weight": "0.056"
+	},
+	{
+		"word": "WALLY",
+		"weight": "0.004"
+	},
+	{
+		"word": "WALTER",
+		"weight": "0.399"
+	},
+	{
+		"word": "WALTON",
+		"weight": "0.004"
+	},
+	{
+		"word": "WARD",
+		"weight": "0.01"
+	},
+	{
+		"word": "WARNER",
+		"weight": "0.004"
+	},
+	{
+		"word": "WARREN",
+		"weight": "0.11"
+	},
+	{
+		"word": "WAYLON",
+		"weight": "0.004"
+	},
+	{
+		"word": "WAYNE",
+		"weight": "0.249"
+	},
+	{
+		"word": "WELDON",
+		"weight": "0.009"
+	},
+	{
+		"word": "WENDELL",
+		"weight": "0.042"
+	},
+	{
+		"word": "WERNER",
+		"weight": "0.005"
+	},
+	{
+		"word": "WES",
+		"weight": "0.004"
+	},
+	{
+		"word": "WESLEY",
+		"weight": "0.104"
+	},
+	{
+		"word": "WESTON",
+		"weight": "0.006"
+	},
+	{
+		"word": "WHITNEY",
+		"weight": "0.005"
+	},
+	{
+		"word": "WILBER",
+		"weight": "0.004"
+	},
+	{
+		"word": "WILBERT",
+		"weight": "0.027"
+	},
+	{
+		"word": "WILBUR",
+		"weight": "0.036"
+	},
+	{
+		"word": "WILBURN",
+		"weight": "0.007"
+	},
+	{
+		"word": "WILEY",
+		"weight": "0.011"
+	},
+	{
+		"word": "WILFORD",
+		"weight": "0.008"
+	},
+	{
+		"word": "WILFRED",
+		"weight": "0.023"
+	},
+	{
+		"word": "WILFREDO",
+		"weight": "0.014"
+	},
+	{
+		"word": "WILL",
+		"weight": "0.018"
+	},
+	{
+		"word": "WILLARD",
+		"weight": "0.05"
+	},
+	{
+		"word": "WILLIAM",
+		"weight": "2.451"
+	},
+	{
+		"word": "WILLIAMS",
+		"weight": "0.013"
+	},
+	{
+		"word": "WILLIAN",
+		"weight": "0.004"
+	},
+	{
+		"word": "WILLIE",
+		"weight": "0.302"
+	},
+	{
+		"word": "WILLIS",
+		"weight": "0.035"
+	},
+	{
+		"word": "WILLY",
+		"weight": "0.005"
+	},
+	{
+		"word": "WILMER",
+		"weight": "0.008"
+	},
+	{
+		"word": "WILSON",
+		"weight": "0.028"
+	},
+	{
+		"word": "WILTON",
+		"weight": "0.006"
+	},
+	{
+		"word": "WINFORD",
+		"weight": "0.004"
+	},
+	{
+		"word": "WINFRED",
+		"weight": "0.009"
+	},
+	{
+		"word": "WINSTON",
+		"weight": "0.019"
+	},
+	{
+		"word": "WM",
+		"weight": "0.033"
+	},
+	{
+		"word": "WOODROW",
+		"weight": "0.025"
+	},
+	{
+		"word": "WYATT",
+		"weight": "0.006"
+	},
+	{
+		"word": "XAVIER",
+		"weight": "0.013"
+	},
+	{
+		"word": "YONG",
+		"weight": "0.006"
+	},
+	{
+		"word": "YOUNG",
+		"weight": "0.007"
+	},
+	{
+		"word": "ZACHARIAH",
+		"weight": "0.005"
+	},
+	{
+		"word": "ZACHARY",
+		"weight": "0.099"
+	},
+	{
+		"word": "ZACHERY",
+		"weight": "0.008"
+	},
+	{
+		"word": "ZACK",
+		"weight": "0.004"
+	},
+	{
+		"word": "ZACKARY",
+		"weight": "0.004"
+	},
+	{
+		"word": "ZANE",
+		"weight": "0.007"
+	}
+]

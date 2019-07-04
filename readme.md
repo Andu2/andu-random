@@ -6,16 +6,14 @@ Takes a list of sample words, generates a frequency table for the next letter gi
 
 Create a new generator object. Pass either a preset name or a custom settings object into the constructor.
 
-Then, run the asynchronous function that loads frequency data, and you can generate words after it's done.
+Then, use the `generateWord` function.
 
 Example using preset:
 
 ```
 const AnduRandom = require("andu-random");
 var generator = new AnduRandom("fantasyName");
-generator.loadFrequencyData().then(function() {
-	generator.generateWord();
-});
+generator.generateWord();
 ```
 
 Example using custom settings object:
@@ -24,10 +22,10 @@ Example using custom settings object:
 const AnduRandom = require("andu-random");
 var generatorOptions = {
 	"wordLists": [{
-		"fileName": "usmalefirst.csv",
+		"fileName": "usmalefirst",
 		"weight": 1
 	}, {
-		"fileName": "usfemalefirst.csv",
+		"fileName": "usfemalefirst",
 		"weight": 2
 	}],
 	"depth": 2,
@@ -37,9 +35,7 @@ var generatorOptions = {
 	"allowListWords": false
 };
 var generator = new AnduRandom(generatorOptions);
-generator.loadFrequencyData().then(function() {
-	generator.generateWord();
-});
+generator.generateWord();
 ```
 
 ## Presets
@@ -63,9 +59,9 @@ generator.loadFrequencyData().then(function() {
 
 ## Word data files
 
-* `bnc.csv` British National Corpus, downloaded from http://number27.org/assets/misc/words.txt
-* `usmalefirst.csv` Male first names from 1990 US census
-* `usfemalefirst.csv` Female first names from 1990 US census
-* `uslast.csv` Last names from 1990 US census
-* `lotr.csv` LOTR character list from https://lotr.fandom.com/wiki/Category:Characters, last names and first names combined
-* `dnd.csv` Names from various DnD 5e books as listed in race descriptions
+* `bnc` British National Corpus, downloaded from http://number27.org/assets/misc/words.txt
+* `usmalefirst` Male first names from 1990 US census
+* `usfemalefirst` Female first names from 1990 US census
+* `uslast` Last names from 1990 US census
+* `lotr` LOTR character list from https://lotr.fandom.com/wiki/Category:Characters, last names and first names combined
+* `dnd` Names from various DnD 5e books as listed in race descriptions

@@ -2,6 +2,7 @@
 /test
 testRun.js
 /data/frequency-tables
-/data/wordlists/test*.csv
+/data/wordlists/*.csv
+/data/wordlists/testlist*.json
 /old
 /src/scripts

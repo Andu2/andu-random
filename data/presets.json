@@ -1,7 +1,7 @@
 {
 	"dictionary": {
 		"wordLists": [{
-			"fileName": "bnc.csv"
+			"fileName": "bnc"
 		}],
 		"depth": 3,
 		"lengthSoftCap": 8,
@@ -9,7 +9,7 @@
 	},
 	"maleName": {
 		"wordLists": [{
-			"fileName": "usmalefirst.csv"
+			"fileName": "usmalefirst"
 		}],
 		"depth": 3,
 		"lengthSoftFloor": 4,
@@ -18,7 +18,7 @@
 	},
 	"femaleName": {
 		"wordLists": [{
-			"fileName": "usfemalefirst.csv"
+			"fileName": "usfemalefirst"
 		}],
 		"depth": 3,
 		"lengthSoftFloor": 4,
@@ -27,9 +27,9 @@
 	},
 	"firstName": {
 		"wordLists": [{
-			"fileName": "usmalefirst.csv"
+			"fileName": "usmalefirst"
 		}, {
-			"fileName": "usfemalefirst.csv"
+			"fileName": "usfemalefirst"
 		}],
 		"depth": 3,
 		"lengthSoftFloor": 4,
@@ -38,7 +38,7 @@
 	},
 	"lastName": {
 		"wordLists": [{
-			"fileName": "uslast.csv"
+			"fileName": "uslast"
 		}],
 		"depth": 3,
 		"lengthSoftFloor": 5,
@@ -47,10 +47,10 @@
 	},
 	"fantasyName": {
 		"wordLists": [{
-			"fileName": "dnd.csv",
+			"fileName": "dnd",
 			"weight": 2
 		}, {
-			"fileName": "lotr.csv",
+			"fileName": "lotr",
 			"weight": 1
 		}],
 		"depth": 3,

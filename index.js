@@ -26,14 +26,8 @@ class anduRandom {
 		};
 
 		this.wordsGenerated = [];
-	}
-
-	loadFrequencyData() {
-		var anduRandomInstance = this;
-		return generateFrequencyData(this.frequencyDataOptions.wordLists, this.frequencyDataOptions.depth, this.frequencyDataOptions.allowListWords).then(function(frequencyData) {
-			anduRandomInstance.frequencyData = frequencyData;
-			anduRandomInstance.frequencyLoaded = true;
-		});
+		this.frequencyData = generateFrequencyData(this.frequencyDataOptions.wordLists, this.frequencyDataOptions.depth, this.frequencyDataOptions.allowListWords)
+		this.frequencyLoaded = true;
 	}
 
 	generateWord() {
