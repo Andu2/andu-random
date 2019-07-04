@@ -12,7 +12,9 @@ glob(baseWordListPath + "/*.csv", function(error, files) {
 	files.forEach(function(fileName) {
 		console.log("Parsing " + fileName);
 		var moduleName = fileName.split("/").slice(-1)[0].slice(0, -4);
-		moduleNames.push(moduleName);
+		if (moduleName.slice(0, 8) !== "testlist") {
+			moduleNames.push(moduleName);
+		}
 		var wordListLoad = new Promise(function(resolve, reject) {
 			var wordListArray = [];
 			fs.createReadStream(fileName)
