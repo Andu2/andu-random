@@ -8,11 +8,9 @@
   },
   "author": "Andy Iverson",
   "license": "ISC",
-  "dependencies": {
-    "csv": "^3.1.0"
-  },
   "devDependencies": {
     "chalk": "^2.4.2",
+    "csv": "^5.1.1",
     "glob": "^7.1.4"
   }
 }
